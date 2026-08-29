@@ -1,5 +1,0 @@
-Classifier,Traditional AUROC,ESM-2 AUROC,AUROC delta,AUROC paired 95% CI,Traditional AUPRC,ESM-2 AUPRC,AUPRC delta,AUPRC paired 95% CI,Traditional MCC,ESM-2 MCC,MCC delta,MCC paired 95% CI,Traditional F1,ESM-2 F1,F1 delta,F1 paired 95% CI,Supported positive ESM-2 differences
-Logistic Regression,0.967,0.978,0.011,"[-0.011, 0.033]",0.748,0.882,0.134,"[-0.011, 0.277]",0.640,0.775,0.135,"[0.053, 0.221]",0.655,0.792,0.136,"[0.054, 0.223]",MCC; F1
-RBF-SVM,0.968,0.980,0.012,"[-0.007, 0.034]",0.768,0.848,0.080,"[-0.079, 0.235]",0.678,0.726,0.049,"[-0.068, 0.179]",0.708,0.750,0.042,"[-0.059, 0.152]",None supported
-Random Forest,0.965,0.988,0.023,"[0.004, 0.047]",0.673,0.922,0.249,"[0.048, 0.388]",0.746,0.729,-0.017,"[-0.120, 0.101]",0.773,0.745,-0.028,"[-0.120, 0.078]",AUROC; AUPRC
-XGBoost,0.978,0.988,0.010,"[-0.004, 0.028]",0.767,0.917,0.150,"[-0.018, 0.284]",0.760,0.818,0.058,"[-0.064, 0.181]",0.783,0.837,0.055,"[-0.053, 0.162]",None supported
