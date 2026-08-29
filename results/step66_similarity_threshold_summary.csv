@@ -1,0 +1,4 @@
+threshold,sequence_family_count,singleton_families,non_singleton_families,largest_family_size,development_only_families,test_only_families,cross_split_families,mixed_label_families,same_label_families,graph_edges,test_peptides_in_cross_split_families,development_peptides_in_cross_split_families
+0.8,801,788,13,51,637,154,10,5,796,354,27,79
+0.9,824,804,20,17,654,159,11,6,818,122,21,54
+0.95,884,877,7,8,703,176,5,1,883,19,5,14

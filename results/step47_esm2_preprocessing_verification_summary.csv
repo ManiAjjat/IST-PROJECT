@@ -1,0 +1,2 @@
+embedding_rows,embedding_dimensions,development_rows,locked_test_rows,cv_folds,expected_train_rows_per_fold,expected_validation_rows_per_fold,pca_candidates,scaler_fits_audited,pca_fits_audited,incorrect_scaler_fit_counts,incorrect_pca_fit_counts,train_validation_overlap_count,test_peptides_used,all_outputs_finite,classifier_trained,preprocessing_objects_saved_for_modeling,verification_passed
+901,1280,720,181,5,576,144,24;52;99;274,5,20,0,0,0,0,True,False,False,True

@@ -1,0 +1,45 @@
+{
+  "model": "ESM2_RBF-SVM",
+  "selected_representation": "no_pca",
+  "selected_pca_components": null,
+  "best_C": 1.0,
+  "best_gamma": "scale",
+  "representations_tested": [
+    "no_pca",
+    "pca_24",
+    "pca_52",
+    "pca_99",
+    "pca_274"
+  ],
+  "pca_components_tested": [
+    null,
+    24,
+    52,
+    99,
+    274
+  ],
+  "C_values_tested": [
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "gamma_values_tested": [
+    "scale",
+    0.001,
+    0.01,
+    0.1
+  ],
+  "selection_metric": "mean_cv_AUROC with AUPRC and MCC tie-breakers",
+  "kernel": "rbf",
+  "class_weight": "balanced",
+  "probability": true,
+  "decision_threshold": 0.5,
+  "random_state": 2026,
+  "development_n": 720,
+  "test_n": 181,
+  "cv_configurations": 80,
+  "cv_model_fits": 400,
+  "cv_fit_warnings": 400,
+  "final_fit_warnings": 1
+}

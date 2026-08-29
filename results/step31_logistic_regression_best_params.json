@@ -1,0 +1,16 @@
+{
+  "model": "LogisticRegression",
+  "best_C": 0.1,
+  "C_values_tested": [
+    0.01,
+    0.1,
+    1,
+    10,
+    100
+  ],
+  "selection_metric": "mean_cv_AUROC",
+  "class_weight": "balanced",
+  "random_state": 2026,
+  "development_n": 720,
+  "test_n": 181
+}

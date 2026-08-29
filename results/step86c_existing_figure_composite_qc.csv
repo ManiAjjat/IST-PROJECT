@@ -1,0 +1,13 @@
+figure_number,output_type,path,exists,bytes,format_valid
+1,PNG,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure1_Dataset_and_Representation_Landscape.png,True,1951343,True
+1,PDF,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure1_Dataset_and_Representation_Landscape.pdf,True,1798529,True
+2,PNG,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure2_Traditional_and_ESM2_Performance.png,True,3594783,True
+2,PDF,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure2_Traditional_and_ESM2_Performance.pdf,True,2773321,True
+3,PNG,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure3_Matched_Performance_Calibration_and_Utility.png,True,3796710,True
+3,PDF,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure3_Matched_Performance_Calibration_and_Utility.pdf,True,2542992,True
+4,PNG,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure4_Sequence_Novelty_and_Generalization.png,True,3556720,True
+4,PDF,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure4_Sequence_Novelty_and_Generalization.pdf,True,2331083,True
+5,PNG,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure5_Representation_Complementarity_and_Interpretability.png,True,3878203,True
+5,PDF,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure5_Representation_Complementarity_and_Interpretability.pdf,True,3201878,True
+6,PNG,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure6_Hard_Case_Anatomy_and_Error_Interpretation.png,True,4739754,True
+6,PDF,E:\postdoc-work\ist-project\manuscript\main_figures_from_existing\Figure6_Hard_Case_Anatomy_and_Error_Interpretation.pdf,True,3658856,True

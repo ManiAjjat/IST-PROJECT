@@ -1,0 +1,4 @@
+ID,sequence,label,binary_class,lr_esm2_probability,lr_esm2_prediction,lr_esm2_correct,lr_transition,svm_esm2_probability,svm_esm2_prediction,svm_esm2_correct,svm_transition,rf_esm2_probability,rf_esm2_prediction,rf_esm2_correct,rf_transition,xgb_esm2_probability,xgb_esm2_prediction,xgb_esm2_correct,xgb_transition,esm2_models_correct,any_esm2_regression
+12,FAKKLAKKLKKLAKKLAKKWKL,1,Active,0.85414505,1,True,stable_correct,0.4938035628927978,0,False,regression,0.7333333333333333,1,True,stable_correct,0.92990416,1,True,stable_correct,3,True
+46,FAKLLAKLAKKVL,1,Active,0.7093795,1,True,stable_correct,0.7429864454794904,1,True,stable_correct,0.6533333333333333,1,True,stable_correct,0.06958702,0,False,regression,3,True
+366,GFFGWFNRMFEKSTHHYTDSVGGI,0,Inactive,0.6545187,1,False,regression,0.0203134848656164,0,True,stable_correct,0.0466666666666666,0,True,stable_correct,0.008081692,0,True,stable_correct,3,True

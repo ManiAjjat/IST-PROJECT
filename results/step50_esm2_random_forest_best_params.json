@@ -1,0 +1,31 @@
+{
+  "model": "ESM2_RandomForest",
+  "representation": "raw_esm2",
+  "scaler_used": false,
+  "pca_used": false,
+  "best_n_estimators": 300,
+  "best_max_depth": null,
+  "best_min_samples_leaf": 1,
+  "n_estimators_tested": [
+    300,
+    600
+  ],
+  "max_depth_tested": [
+    null,
+    5,
+    10
+  ],
+  "min_samples_leaf_tested": [
+    1,
+    3,
+    5
+  ],
+  "selection_metric": "mean_cv_AUROC with AUPRC and MCC tie-breakers",
+  "class_weight": "balanced",
+  "decision_threshold": 0.5,
+  "random_state": 2026,
+  "development_n": 720,
+  "test_n": 181,
+  "cv_configurations": 18,
+  "cv_model_fits": 90
+}

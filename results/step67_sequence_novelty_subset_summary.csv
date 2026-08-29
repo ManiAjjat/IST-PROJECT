@@ -1,0 +1,5 @@
+subset_order,subset,subset_label,maximum_allowed_similarity_exclusive,n,active,inactive,active_prevalence,excluded_from_full_test
+0,all_test,All test,,181,20,161,0.11049723756906077,0
+1,novel_lt_0_95,Similarity < 0.95,0.95,176,17,159,0.09659090909090909,5
+2,novel_lt_0_90,Similarity < 0.90,0.9,164,11,153,0.06707317073170732,17
+3,novel_lt_0_80,Similarity < 0.80,0.8,154,4,150,0.025974025974025976,27

@@ -1,0 +1,12 @@
+{
+  "model": "Fusion RBF-SVM",
+  "pca_components": 99,
+  "fusion_dimensions": 131,
+  "C": 1.0,
+  "gamma": 0.001,
+  "class_weight": "balanced",
+  "seed": 2026,
+  "selection_metric": "mean_cv_AUROC_then_AUPRC_then_MCC",
+  "development_rows": 720,
+  "locked_test_rows": 181
+}

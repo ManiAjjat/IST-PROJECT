@@ -1,0 +1,2 @@
+model,best_C,test_n,test_active,test_inactive,test_AUROC,test_AUPRC,test_MCC,test_accuracy,test_precision,test_recall,test_specificity,test_F1,TN,FP,FN,TP
+LogisticRegression,0.1,181,20,161,0.9667701863354037,0.7481014082078992,0.6404496029129428,0.8895027624309392,0.5,0.95,0.8819875776397516,0.6551724137931034,142,19,1,19

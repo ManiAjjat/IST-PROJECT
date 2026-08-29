@@ -1,0 +1,25 @@
+﻿figure_number,panel,panel_title,source_files,transformation_or_scope
+Figure 1,A,Study workflow,derived/traditional_features.csv; derived/fixed_split.csv,Schematic from frozen study counts and design
+Figure 1,B,Dataset composition,derived/fixed_split.csv,Counts by split and class
+Figure 1,C,Peptide length distribution,derived/traditional_features.csv,All 901 peptides
+Figure 1,D,Physicochemical distributions,derived/traditional_features.csv,Four biologically relevant descriptors
+Figure 1,E,Traditional correlation structure,results/step26_spearman_correlation_matrix.csv,Selected seven-descriptor matrix
+Figure 1,F,Representation overview,derived/traditional_features.csv; derived/esm2_embeddings.npy,Dimension counts only
+Figure 1,G,Leakage-safe modeling,derived/fixed_cv_folds.csv,Five fixed development folds; test untouched
+Figure 2,A-D,Performance with uncertainty,results/step74_model_performance_bootstrap_summary.csv,Frozen point estimates and existing 95% intervals
+Figure 2,E,Matched representation deltas,results/step54_paired_bootstrap_summary.csv,ESM-2 minus Traditional
+Figure 2,F,Calibration,results/step71_calibration_metrics.csv,"Brier, ECE, log loss"
+Figure 2,G,Decision utility,results/step73_decision_curve_model_summary.csv,Predefined threshold-range means
+Figure 3,A-B,Sequence-novelty performance,results/step67_sequence_novelty_performance.csv,AUROC and AUPRC with n/Active annotations
+Figure 3,C,Cross-validated CCA,results/step78_cv_canonical_correlations.csv,Training and held-out validation correlations
+Figure 3,D,Descriptor-PC association,results/step77_traditional_vs_esm2_pc_correlations.csv,Seven descriptors by ESM-2 PC01-PC12
+Figure 3,E,PC90 dimensionality,results/step78_cv_cca_fold_summary.csv,Fold-contained PCA counts
+Figure 3,F,Fusion comparison,results/step80_fusion_vs_esm2_paired_bootstrap_summary.csv,Fusion minus ESM-2 paired deltas
+Figure 4,A-B,Stable latent importance,results/step81_esm2_cv_feature_importance_summary.csv,RF and XGBoost
+Figure 4,C,Stable-feature overlap,results/step81_esm2_feature_importance_overlap.csv,Stable-top-20 intersection
+Figure 4,D,Hard-vs-correct residue sensitivity,results/step82_peptide_perturbation_summary.csv,Predefined ten-peptide panel
+Figure 4,E-F,Residue category and motif context,results/step83_residue_category_summary.csv; results/step83_motif_sensitivity_summary.csv,Descriptive summaries
+Figure 4,G,Representative alanine scans,results/step83_residue_physicochemical_context.csv,"IDs 48, 40, 145"
+Figure 5,A-B,Hard-case hierarchy and error patterns,results/step59_consensus_hard_cases_manuscript.csv,15 hard cases and five universal errors
+Figure 5,C-D,Neighborhood conflict and purity,results/step84_integrated_hard_case_interpretability.csv,Five universal errors
+Figure 5,E-F,Integrated evidence and residue summary,results/step84_integrated_hard_case_interpretability.csv; results/step84_universal_error_evidence_table.csv,Descriptive interpretability evidence

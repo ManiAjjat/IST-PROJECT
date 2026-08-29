@@ -1,0 +1,2 @@
+peptides,development_peptides,test_peptides,unique_pairwise_comparisons,similarity_matrix_symmetric,diagonal_exactly_one,all_similarities_finite,all_similarities_within_0_1,exact_test_development_matches,test_rows,assignment_rows,thresholds_exact,all_assignment_thresholds_cover_901,family_sizes_cover_901,nearest_development_ids_valid,test_ids_disjoint_from_development_candidates,models_trained,split_changed,labels_changed,thresholds_optimized
+901,720,181,405450,True,True,True,True,0,181,2703,0.80;0.90;0.95,True,True,True,True,False,False,False,False

@@ -1,0 +1,38 @@
+{
+  "model": "ESM2_LogisticRegression",
+  "selected_representation": "pca_24",
+  "selected_pca_components": 24,
+  "best_C": 0.1,
+  "representations_tested": [
+    "no_pca",
+    "pca_24",
+    "pca_52",
+    "pca_99",
+    "pca_274"
+  ],
+  "pca_components_tested": [
+    null,
+    24,
+    52,
+    99,
+    274
+  ],
+  "C_values_tested": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "selection_metric": "mean_cv_AUROC",
+  "class_weight": "balanced",
+  "penalty": "l2",
+  "decision_threshold": 0.5,
+  "random_state": 2026,
+  "development_n": 720,
+  "test_n": 181,
+  "cv_configurations": 25,
+  "cv_model_fits": 125,
+  "cv_convergence_warnings": 0,
+  "final_convergence_warnings": 0
+}

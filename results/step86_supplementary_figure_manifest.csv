@@ -1,0 +1,20 @@
+﻿supplementary_number,source_step,source_figure,analysis_topic,recommended_status,reason
+S1,Step 36,Step36_Traditional_Model_ROC; Step36_Traditional_Model_PR,Traditional-model ROC and precision-recall curves,Include,Provides curve-level detail supporting the traditional-model performance results.
+S2,Step 39,Step39_XGBoost_Permutation_Importance,Traditional XGBoost permutation importance,Include,Supports interpretation of the strongest traditional classifier without displacing primary performance evidence.
+S3,Step 52,Step52_ESM2_Model_ROC; Step52_ESM2_Model_PR,ESM-2 model ROC and precision-recall curves,Include,Provides curve-level detail for the four frozen ESM-2 classifiers.
+S4,Step 55,Step55_Traditional_vs_ESM2_Bootstrap_CI,Matched traditional-versus-ESM-2 paired-bootstrap differences,Include,Directly supports the matched representation comparisons summarized in Table 3.
+S5,Step 60,Step60_Hard_Case_Amino_Acid_Composition; Step60_Hard_Case_Motif_Enrichment,Hard-case amino-acid composition and recurrent motifs,Include,Provides sequence-level context underlying the integrated hard-case evidence.
+S6,Step 61,Step61_Hard_Case_Opposite_Class_Proximity,Opposite-class nearest-neighbor proximity,Include,Shows descriptive cross-class proximity among difficult peptides.
+S7,Step 62,Step62_Hard_Case_Sequence_Similarity_Map,Within-hard-case sequence similarity,Include,Documents family concentration and diversity within the hard-case set.
+S8,Step 66,Step66_Test_to_Development_Similarity,Development-test sequence homology audit,Include,Documents the absence of exact overlap and the distribution of nearest-development similarity.
+S9,Step 67,Step67_Sequence_Novelty_MCC_F1,Threshold performance across sequence-novelty subsets,Include,"Complements main Figure 2, with explicit caution because the strictest subset contains only four Active peptides."
+S10,Step 71,Step71_Model_Calibration_Curves,Probability calibration and reliability,Include,Adds probability-reliability evidence not captured by discrimination metrics.
+S11,Step 73,Step73_Traditional_Decision_Curves; Step73_ESM2_Decision_Curves,Decision-curve net benefit,Include,Provides threshold-dependent clinical-utility context for both representation branches.
+S12,Step 77,Step77_Traditional_vs_ESM2_Canonical_Correlation; Step77_Descriptor_ESM2_PC_Association_Map,In-sample feature-space complementarity,Optional,"Useful representation analysis, but Step 78 provides the stronger held-out validation perspective."
+S13,Step 78,Step78_Cross_Validated_Canonical_Correlations,Cross-validated feature-space complementarity,Include,Evaluates whether traditional-ESM-2 alignment persists on held-out development folds.
+S14,Step 81,Step81_ESM2_Feature_Importance_Stability,Stable latent-dimension usage across CV folds,Optional,"Adds computational interpretability, while latent dimensions lack direct biological meaning."
+S15,Step 82,Step82_Hard_Case_Residue_Sensitivity,Residue-level alanine perturbation sensitivity,Include,Provides the residue-level evidence summarized in main Figure 3.
+S16,Step 83,Step83_Motif_Context_Sensitivity,Motif context of residue sensitivity,Include,Connects recurrent hard-case motifs to prediction-sensitive positions without implying mechanism.
+S17,Step 76,Step76_Integrated_Model_Performance_Map,Descriptive multi-domain model ranking,Archive only,The mean domain rank is descriptive and could be mistaken for a formal model-selection criterion.
+S18,Step 79,Step79_Fusion_vs_Single_Representation,Feature-fusion point-estimate comparison,Optional,The controlled negative fusion result is useful but not central to the three-figure manuscript narrative.
+S19,Step 80,Step80_Fusion_vs_ESM2_Paired_Bootstrap,Paired fusion-versus-ESM-2 uncertainty,Optional,Supports a concise negative-result paragraph if supplementary space permits.

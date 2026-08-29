@@ -1,0 +1,6 @@
+﻿figure_number,manuscript_title,panel_range,png,pdf,status
+Figure 1,"Study design, peptide landscape, and computational framework",A-G,manuscript\figures\Figure1_Study_Design_and_Peptide_Landscape.png,manuscript\figures\Figure1_Study_Design_and_Peptide_Landscape.pdf,Main figure - frozen in Step 86B
+Figure 2,Comparative predictive performance and uncertainty,A-G,manuscript\figures\Figure2_Comparative_Performance_and_Uncertainty.png,manuscript\figures\Figure2_Comparative_Performance_and_Uncertainty.pdf,Main figure - frozen in Step 86B
+Figure 3,"Generalization, sequence novelty, and representation complementarity",A-F,manuscript\figures\Figure3_Generalization_and_Complementarity.png,manuscript\figures\Figure3_Generalization_and_Complementarity.pdf,Main figure - frozen in Step 86B
+Figure 4,Model interpretation from latent dimensions to sequence context,A-G,manuscript\figures\Figure4_ESM2_Interpretability.png,manuscript\figures\Figure4_ESM2_Interpretability.pdf,Main figure - frozen in Step 86B
+Figure 5,Anatomy of universal model failures,A-F,manuscript\figures\Figure5_Universal_Model_Failures.png,manuscript\figures\Figure5_Universal_Model_Failures.pdf,Main figure - frozen in Step 86B

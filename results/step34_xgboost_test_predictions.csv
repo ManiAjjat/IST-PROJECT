@@ -1,0 +1,182 @@
+ID,sequence,class,original_class,label,binary_class,predicted_probability,predicted_label,split
+1,AIGKFLHSAKKFGKAFVGEIMNS,mod. active,mod. active,1,Active,0.99338245,1,test
+12,FAKKLAKKLKKLAKKLAKKWKL,mod. active,mod. active,1,Active,0.9484762,1,test
+15,FAKKLAKKLKKLAKKLIGAVLKV,mod. active,mod. active,1,Active,0.9940906,1,test
+21,FAKKLAKLAKKLAKLAL,mod. active,mod. active,1,Active,0.9988416,1,test
+30,FAKLLAKALKKAL,mod. active,mod. active,1,Active,0.82984793,1,test
+33,FAKLLAKALKKL,inactive - exp,inactive - exp,0,Inactive,0.38108072,0,test
+37,FAKLLAKLAKAKL,inactive - exp,inactive - exp,0,Inactive,0.1386277,0,test
+38,FAKLLAKLAKKAA,inactive - exp,inactive - exp,0,Inactive,0.001308017,0,test
+40,FAKLLAKLAKKFAL,inactive - exp,inactive - exp,0,Inactive,0.98671037,1,test
+43,FAKLLAKLAKKL,inactive - exp,inactive - exp,0,Inactive,0.38108072,0,test
+46,FAKLLAKLAKKVL,mod. active,mod. active,1,Active,0.99469334,1,test
+47,FAKLLAKLAKLKL,inactive - exp,inactive - exp,0,Inactive,0.018351065,0,test
+48,FAKLLFKALKKAL,inactive - exp,inactive - exp,0,Inactive,0.99985933,1,test
+50,FAKLWAKLAFGKGIGKVGKKLL,mod. active,mod. active,1,Active,0.9989267,1,test
+55,FALALKALKKAL,inactive - exp,inactive - exp,0,Inactive,0.057625122,0,test
+56,FALALKALKKALKKLKKALKKAL,inactive - exp,inactive - exp,0,Inactive,0.9876605,1,test
+61,FALALKKALKALKKAL,mod. active,mod. active,1,Active,0.9466404,1,test
+67,FKLAFKLAKKAFL,inactive - exp,inactive - exp,0,Inactive,0.6320686,1,test
+68,FKRLAKIKVLRLAKIKR,mod. active,mod. active,1,Active,0.038676832,0,test
+70,FLGALFHALSKLL,mod. active,mod. active,1,Active,0.98133904,1,test
+72,FLGALFKALSKLL,mod. active,mod. active,1,Active,0.9998242,1,test
+78,FLKLLKKLAAKFLPTIICKISYKC,very active,very active,1,Active,0.9983847,1,test
+80,FLKWLFKWAKK,mod. active,mod. active,1,Active,0.7241511,1,test
+88,GIGKFLKKAKKFAKAFVKIINN,very active,very active,1,Active,0.9670399,1,test
+90,GLFAVIKKVAAVIKKL,mod. active,mod. active,1,Active,0.99551153,1,test
+91,GLFAVIKKVAAVIRRL,mod. active,mod. active,1,Active,0.124753706,0,test
+103,GLFDVIKAVASVIGGL,mod. active,mod. active,1,Active,0.8148121,1,test
+114,KKVVFKVKFK,inactive - exp,inactive - exp,0,Inactive,0.0007643164,0,test
+128,KWKLFKKIGIGKFLHLAKKF,very active,very active,1,Active,0.9987446,1,test
+139,KWKSFLKTFKSLKKTVLHTALKAISS,very active,very active,1,Active,0.9997701,1,test
+142,KYKKALKKLAKLL,inactive - exp,inactive - exp,0,Inactive,0.7222045,1,test
+145,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,inactive - exp,inactive - exp,0,Inactive,0.9918826,1,test
+147,VAKKLAKLAKKLAKLAL,very active,very active,1,Active,0.9179838,1,test
+149,VAKLLAKLAKKVL,inactive - exp,inactive - exp,0,Inactive,0.743806,1,test
+158,AEGVATADPLMRLAKQLK,inactive - virtual,inactive - virtual,0,Inactive,1.0880576e-06,0,test
+166,AGNLDIMTSAALATAERMAQSMLN,inactive - virtual,inactive - virtual,0,Inactive,3.0385083e-05,0,test
+167,AHAIGVLLDNL,inactive - virtual,inactive - virtual,0,Inactive,7.2037896e-05,0,test
+169,AKQEKIIIQVALNDITHVVELL,inactive - virtual,inactive - virtual,0,Inactive,0.00020738301,0,test
+170,AKVVRTALEDAASVAGLLIT,inactive - virtual,inactive - virtual,0,Inactive,0.000102007914,0,test
+173,ALYGLLKEEMGEILAK,inactive - virtual,inactive - virtual,0,Inactive,0.00059115223,0,test
+175,APDAEGRAIQAVYWANKWAKEQG,inactive - virtual,inactive - virtual,0,Inactive,0.000141286,0,test
+177,APEDVRKSSKEVL,inactive - virtual,inactive - virtual,0,Inactive,1.2797209e-05,0,test
+179,AQTSRWAAMQIGMSFISAY,inactive - virtual,inactive - virtual,0,Inactive,7.365987e-05,0,test
+185,DAAGLASRHKG,inactive - virtual,inactive - virtual,0,Inactive,1.1244928e-05,0,test
+189,DAMLRTSMVATQLVGLAMMRYV,inactive - virtual,inactive - virtual,0,Inactive,0.00032683875,0,test
+195,DDETREELEELLIQA,inactive - virtual,inactive - virtual,0,Inactive,1.7836245e-06,0,test
+197,DDYLKEQVLHMKQYVSDN,inactive - virtual,inactive - virtual,0,Inactive,1.2133357e-05,0,test
+198,DEAAFQKLMSNLD,inactive - virtual,inactive - virtual,0,Inactive,8.00322e-06,0,test
+212,DFPALIKQASLDALFK,inactive - virtual,inactive - virtual,0,Inactive,0.0008428599,0,test
+216,DGGGFVISKHPVRLAKKLNR,inactive - virtual,inactive - virtual,0,Inactive,0.0017932926,0,test
+217,DHAVLEVLATPVREALLARFG,inactive - virtual,inactive - virtual,0,Inactive,0.0001380786,0,test
+229,DLESDALGWQYITG,inactive - virtual,inactive - virtual,0,Inactive,9.760496e-05,0,test
+235,DLRELIARVRALIRRKS,inactive - virtual,inactive - virtual,0,Inactive,0.0006519318,0,test
+239,DMNQVLDAYEN,inactive - virtual,inactive - virtual,0,Inactive,7.168738e-06,0,test
+252,DPLWKKEMFEKYLSN,inactive - virtual,inactive - virtual,0,Inactive,0.00012021382,0,test
+261,DQNGEIYMWPVAQA,inactive - virtual,inactive - virtual,0,Inactive,4.164175e-05,0,test
+271,DSVASLLDVVKSTG,inactive - virtual,inactive - virtual,0,Inactive,3.3115044e-05,0,test
+282,DWYRTYAELRETA,inactive - virtual,inactive - virtual,0,Inactive,6.694487e-05,0,test
+288,EDKEAVFDVVDTLTAVLQVATGVISTL,inactive - virtual,inactive - virtual,0,Inactive,0.0005843165,0,test
+301,EGKDRELYGKLHETLKKVTEDLEA,inactive - virtual,inactive - virtual,0,Inactive,0.00020280607,0,test
+302,EGNKRLDSVNSIVS,inactive - virtual,inactive - virtual,0,Inactive,2.9241269e-06,0,test
+309,EKETFREKFMQH,inactive - virtual,inactive - virtual,0,Inactive,0.0011199574,0,test
+315,EPGQRKIVMHK,inactive - virtual,inactive - virtual,0,Inactive,2.2285742e-05,0,test
+316,EQEILRQVKKAYDRAARLG,inactive - virtual,inactive - virtual,0,Inactive,1.476753e-05,0,test
+326,EVNRNFGERINDLRILILLL,inactive - virtual,inactive - virtual,0,Inactive,3.5098048e-05,0,test
+329,EYKYYKLKLAEMQR,inactive - virtual,inactive - virtual,0,Inactive,3.026126e-05,0,test
+341,FKSVQNSLQRILYLWAIRH,inactive - virtual,inactive - virtual,0,Inactive,0.00022500062,0,test
+345,FNQRRISSAKFLGELYNY,inactive - virtual,inactive - virtual,0,Inactive,3.937753e-05,0,test
+349,FPQLTQNNSRE,inactive - virtual,inactive - virtual,0,Inactive,2.8059014e-05,0,test
+352,FTELQRDFLRN,inactive - virtual,inactive - virtual,0,Inactive,0.0022038524,0,test
+357,GAGTSVNMNTNEVLANIGLELM,inactive - virtual,inactive - virtual,0,Inactive,0.00024160845,0,test
+359,GAQYIQAAGVALGLKMR,inactive - virtual,inactive - virtual,0,Inactive,1.1230834e-05,0,test
+364,GEGWAKSILFN,inactive - virtual,inactive - virtual,0,Inactive,0.00044103552,0,test
+366,GFFGWFNRMFEKSTHHYTDSVGGI,inactive - virtual,inactive - virtual,0,Inactive,0.018709876,0,test
+369,GFSVQRRLWLAS,inactive - virtual,inactive - virtual,0,Inactive,0.00011435757,0,test
+370,GFYPMVAAQRI,inactive - virtual,inactive - virtual,0,Inactive,5.3295145e-05,0,test
+372,GGKEALAIENFADAL,inactive - virtual,inactive - virtual,0,Inactive,8.3731175e-05,0,test
+388,GLGLVLKIAVNAFLKLVA,inactive - virtual,inactive - virtual,0,Inactive,0.31133792,0,test
+391,GLTSLMAIDKL,inactive - virtual,inactive - virtual,0,Inactive,0.0009919896,0,test
+392,GLWAIAVKAGKVILKLIVFIWIRV,inactive - virtual,inactive - virtual,0,Inactive,0.7722348,1,test
+394,GNFADLLAHSDGLIKNISDDLRALDKLI,inactive - virtual,inactive - virtual,0,Inactive,0.0017762097,0,test
+396,GPDMTAMVALIASV,inactive - virtual,inactive - virtual,0,Inactive,4.4743752e-05,0,test
+397,GPKDAVVKVFNQWG,inactive - virtual,inactive - virtual,0,Inactive,0.02004984,0,test
+407,HALRTIVFELLTRH,inactive - virtual,inactive - virtual,0,Inactive,4.2196963e-05,0,test
+411,HGLVKAGHPLKRKLGH,inactive - virtual,inactive - virtual,0,Inactive,0.0035575188,0,test
+416,HPAFIAHADRVLGGLDIAIST,inactive - virtual,inactive - virtual,0,Inactive,8.5821564e-05,0,test
+419,HSATRAAMLVRINT,inactive - virtual,inactive - virtual,0,Inactive,2.1584012e-06,0,test
+424,HWDKVADMVANFAHEIDTYG,inactive - virtual,inactive - virtual,0,Inactive,0.0007462042,0,test
+428,IDDSVNNLIPFMQKH,inactive - virtual,inactive - virtual,0,Inactive,1.0774153e-05,0,test
+433,IKPLNNFAAEVGKIRDS,inactive - virtual,inactive - virtual,0,Inactive,6.500856e-06,0,test
+434,IMELLGTVIQHEGIHQGQYYVALKQSG,inactive - virtual,inactive - virtual,0,Inactive,0.00024585164,0,test
+439,KDAENHKAYLKSH,inactive - virtual,inactive - virtual,0,Inactive,2.5789644e-05,0,test
+451,KHHAAYVNNLNNALKK,inactive - virtual,inactive - virtual,0,Inactive,0.00032024513,0,test
+452,KIPDDLQADFNKFR,inactive - virtual,inactive - virtual,0,Inactive,0.0008667619,0,test
+453,KKAEAVATVVAAVDQARVR,inactive - virtual,inactive - virtual,0,Inactive,7.0237575e-06,0,test
+459,KLDSRFDNNLGKFRFVLLLFV,inactive - virtual,inactive - virtual,0,Inactive,0.00022106075,0,test
+461,KLKELALIFISNLVAN,inactive - virtual,inactive - virtual,0,Inactive,0.014038491,0,test
+464,KPEQYNIVGEHLLATLDEMFS,inactive - virtual,inactive - virtual,0,Inactive,2.4313684e-05,0,test
+465,KPQELLSLIIERFE,inactive - virtual,inactive - virtual,0,Inactive,5.0409195e-05,0,test
+469,KQLTAIAALAE,inactive - virtual,inactive - virtual,0,Inactive,4.6929367e-06,0,test
+478,KVRGLIEIISN,inactive - virtual,inactive - virtual,0,Inactive,8.710945e-05,0,test
+490,LEPIKAWIEKR,inactive - virtual,inactive - virtual,0,Inactive,4.537096e-06,0,test
+491,LEQVEFKLNQLLENL,inactive - virtual,inactive - virtual,0,Inactive,0.00047366827,0,test
+493,LKRAEALIHLANAALE,inactive - virtual,inactive - virtual,0,Inactive,7.774282e-05,0,test
+497,LLTEVETYVLSI,inactive - virtual,inactive - virtual,0,Inactive,5.438283e-06,0,test
+501,LPEDQELLFQSASLELFVLRLAYRA,inactive - virtual,inactive - virtual,0,Inactive,0.0003792759,0,test
+507,LQWYVSEQHEEEALFRGIVDKIKLIG,inactive - virtual,inactive - virtual,0,Inactive,0.00046320746,0,test
+512,LVGALMHVMQKRSR,inactive - virtual,inactive - virtual,0,Inactive,0.00021046544,0,test
+513,LVLPIAQALKVLG,inactive - virtual,inactive - virtual,0,Inactive,0.002831847,0,test
+516,MLEEYRKHVAERAAE,inactive - virtual,inactive - virtual,0,Inactive,4.0399764e-06,0,test
+517,MPEVFNYLGIYLTQA,inactive - virtual,inactive - virtual,0,Inactive,5.8597238e-05,0,test
+518,MPGTATHTVKMFS,inactive - virtual,inactive - virtual,0,Inactive,0.0004108417,0,test
+519,MPYTDAVVHEVQRYID,inactive - virtual,inactive - virtual,0,Inactive,8.2660445e-06,0,test
+532,NEQDLGIQYKALKPEVDKLNIMAAKRQQEL,inactive - virtual,inactive - virtual,0,Inactive,8.245815e-05,0,test
+534,NFKDVIETAKKVMNF,inactive - virtual,inactive - virtual,0,Inactive,0.00029543162,0,test
+535,NGETFLTELLD,inactive - virtual,inactive - virtual,0,Inactive,3.7780177e-05,0,test
+538,NIDSYLNAVNIINIFKIIG,inactive - virtual,inactive - virtual,0,Inactive,0.00011066487,0,test
+544,NKEEMMDIVKAIYDMMG,inactive - virtual,inactive - virtual,0,Inactive,1.1444751e-05,0,test
+546,NKQADSIKQMEERNKKRVENFKKTG,inactive - virtual,inactive - virtual,0,Inactive,0.00041586746,0,test
+554,NLLYDIVKENG,inactive - virtual,inactive - virtual,0,Inactive,1.2841477e-05,0,test
+562,NPARALYQTVRELIENSLDA,inactive - virtual,inactive - virtual,0,Inactive,9.52119e-06,0,test
+563,NPEILLARVKRFLERE,inactive - virtual,inactive - virtual,0,Inactive,7.633357e-06,0,test
+567,NPQVLADIGAEAT,inactive - virtual,inactive - virtual,0,Inactive,3.2268467e-06,0,test
+569,NPVLQQHFRNLEALAL,inactive - virtual,inactive - virtual,0,Inactive,6.468772e-06,0,test
+570,NQDELEGYNLFKGSG,inactive - virtual,inactive - virtual,0,Inactive,5.547083e-05,0,test
+573,NREANLQALIATG,inactive - virtual,inactive - virtual,0,Inactive,8.684281e-07,0,test
+576,NSNHQMLLVQQAEDKIKELLNT,inactive - virtual,inactive - virtual,0,Inactive,6.762656e-06,0,test
+578,NSREREMFVQEVRRYY,inactive - virtual,inactive - virtual,0,Inactive,1.4364466e-05,0,test
+580,NSVLRAVAEVYA,inactive - virtual,inactive - virtual,0,Inactive,1.6544799e-06,0,test
+581,NTDTLERVTEIFKALG,inactive - virtual,inactive - virtual,0,Inactive,2.3129614e-05,0,test
+600,PEKEAVTLGIKALKSSL,inactive - virtual,inactive - virtual,0,Inactive,7.192053e-05,0,test
+602,PEYEHLYTELTGTIVLLIES,inactive - virtual,inactive - virtual,0,Inactive,4.5156376e-05,0,test
+608,PIKFIRKA,inactive - virtual,inactive - virtual,0,Inactive,0.00017833438,0,test
+614,PNDMSRIFNIVKESL,inactive - virtual,inactive - virtual,0,Inactive,5.0046638e-06,0,test
+615,PNGPTHAPWLLAHKIQ,inactive - virtual,inactive - virtual,0,Inactive,0.00031753027,0,test
+626,PSVVANTVKGG,inactive - virtual,inactive - virtual,0,Inactive,0.00019850703,0,test
+634,QASTGSLLNILR,inactive - virtual,inactive - virtual,0,Inactive,1.4408932e-05,0,test
+641,QGLAEKIFWSLK,inactive - virtual,inactive - virtual,0,Inactive,0.0010181953,0,test
+647,QLLRGVGAAATAVTQALNELLQHVKA,inactive - virtual,inactive - virtual,0,Inactive,0.0047298595,0,test
+657,RAAAIEQLKIWGERVG,inactive - virtual,inactive - virtual,0,Inactive,1.2724108e-05,0,test
+663,RFLIRVYHPLLLKVL,inactive - virtual,inactive - virtual,0,Inactive,0.00057525723,0,test
+671,RIENGLRKRLQSIYRHLEE,inactive - virtual,inactive - virtual,0,Inactive,8.179817e-05,0,test
+675,RKQSLEQDLQFYYG,inactive - virtual,inactive - virtual,0,Inactive,5.2647305e-05,0,test
+679,RLLGKWSAILKNVRFFFFWL,inactive - virtual,inactive - virtual,0,Inactive,0.003922296,0,test
+694,SAAWAEWQKAR,inactive - virtual,inactive - virtual,0,Inactive,2.4283447e-05,0,test
+701,SDIFNKNMRAHALEK,inactive - virtual,inactive - virtual,0,Inactive,1.4124813e-05,0,test
+704,SDWYLKGRLTSLESQFINALGILET,inactive - virtual,inactive - virtual,0,Inactive,0.00061748986,0,test
+705,SEAAKAYMKGLEYQMSGNEQWSKT,inactive - virtual,inactive - virtual,0,Inactive,0.005285131,0,test
+708,SEERIRSGVKRLSKSRQ,inactive - virtual,inactive - virtual,0,Inactive,2.1893067e-05,0,test
+713,SESKLIEQAFR,inactive - virtual,inactive - virtual,0,Inactive,2.562446e-05,0,test
+720,SGRFWKLYIEAEIKA,inactive - virtual,inactive - virtual,0,Inactive,0.00027924182,0,test
+723,SIDEKYEAEVKKSEIDHHK,inactive - virtual,inactive - virtual,0,Inactive,6.0858816e-05,0,test
+724,SIERLLEMESL,inactive - virtual,inactive - virtual,0,Inactive,2.851904e-06,0,test
+728,SKDLAQTSYFMATNSLHLT,inactive - virtual,inactive - virtual,0,Inactive,6.007732e-05,0,test
+730,SKEDVERVKLRINLARNWVKKY,inactive - virtual,inactive - virtual,0,Inactive,0.00012940395,0,test
+735,SKYRLTVVVAKRAQQLLRH,inactive - virtual,inactive - virtual,0,Inactive,0.0009363752,0,test
+736,SLAEALGWLFVSEGS,inactive - virtual,inactive - virtual,0,Inactive,0.00029779886,0,test
+742,SMDHRIERLEYYIQLLVK,inactive - virtual,inactive - virtual,0,Inactive,6.207382e-06,0,test
+744,SNEVMRILISRSLLQE,inactive - virtual,inactive - virtual,0,Inactive,7.188249e-06,0,test
+749,SPAVQMKIKELYRRR,inactive - virtual,inactive - virtual,0,Inactive,2.3612238e-05,0,test
+760,SPVVIKKRIEGLIER,inactive - virtual,inactive - virtual,0,Inactive,0.00024962754,0,test
+771,SSREWFSTLYRLFIG,inactive - virtual,inactive - virtual,0,Inactive,0.000263603,0,test
+776,SVADHSYRVAFITLLLAEELKKK,inactive - virtual,inactive - virtual,0,Inactive,0.00024946433,0,test
+800,TDQQKVSEIFQSSKEKLQGDAKVVSDAFK,inactive - virtual,inactive - virtual,0,Inactive,0.00063327147,0,test
+806,TEREQALAAYAEKLTRH,inactive - virtual,inactive - virtual,0,Inactive,3.198116e-06,0,test
+807,TESMKTVRIREKIKKFL,inactive - virtual,inactive - virtual,0,Inactive,2.161922e-05,0,test
+817,TIEEFHSKLQEATN,inactive - virtual,inactive - virtual,0,Inactive,2.3830835e-05,0,test
+824,TKGEREMIVVATSAAN,inactive - virtual,inactive - virtual,0,Inactive,4.2331353e-06,0,test
+837,TPEKRVDRIFAMMD,inactive - virtual,inactive - virtual,0,Inactive,1.3475981e-05,0,test
+848,TQDLRSHLVHKLVQAIF,inactive - virtual,inactive - virtual,0,Inactive,5.878126e-06,0,test
+852,TRELAYMIKKA,inactive - virtual,inactive - virtual,0,Inactive,1.3533928e-06,0,test
+861,TVLAALFLAGS,inactive - virtual,inactive - virtual,0,Inactive,0.0016918732,0,test
+862,TYYAKDIAFQFWKM,inactive - virtual,inactive - virtual,0,Inactive,0.0073466715,0,test
+866,VEAIEALLKGN,inactive - virtual,inactive - virtual,0,Inactive,0.00020947166,0,test
+871,VIDPLHTHLTRLVAAYTG,inactive - virtual,inactive - virtual,0,Inactive,3.3171556e-05,0,test
+872,VKYAVFEAALTKAITAMSEVQKVSQ,inactive - virtual,inactive - virtual,0,Inactive,7.632764e-05,0,test
+873,VLSFKTGIISL,inactive - virtual,inactive - virtual,0,Inactive,0.13059768,0,test
+875,VMGQNLILNMND,inactive - virtual,inactive - virtual,0,Inactive,4.861547e-06,0,test
+880,VPMQRVLKYHLLLQELVK,inactive - virtual,inactive - virtual,0,Inactive,5.1850307e-05,0,test
+881,VQEVNRFIKAFEEMKALMKSL,inactive - virtual,inactive - virtual,0,Inactive,0.00022192235,0,test
+894,YKEPLKAVVKKLLEKE,inactive - virtual,inactive - virtual,0,Inactive,0.00023932425,0,test

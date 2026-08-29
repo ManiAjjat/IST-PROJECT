@@ -1,0 +1,13 @@
+family_ID,family_sequence,family_true_class,family_total_wrong_count,family_consensus_8_of_8,representation,top5_same_class_count,top5_opposite_class_count,top5_same_class_fraction,top5_opposite_class_fraction,mean_top5_similarity,nearest_development_neighbor_ID,nearest_neighbor_class,nearest_neighbor_similarity,nearest_opposite_sequence_ID,nearest_opposite_esm2_ID,same_recurrent_opposite_neighbor_across_representations
+33,FAKLLAKALKKL,Inactive,5,False,esm2,3,2,0.6,0.4,0.9957239856174137,36,Active,0.9963754795701926,32,36,False
+33,FAKLLAKALKKL,Inactive,5,False,sequence,1,4,0.2,0.8,0.8945054945054945,32,Active,0.9230769230769232,32,36,False
+40,FAKLLAKLAKKFAL,Inactive,8,True,esm2,1,4,0.2,0.8,0.9954848368804864,31,Active,0.9971567825556462,31,31,True
+40,FAKLLAKLAKKFAL,Inactive,8,True,sequence,4,1,0.8,0.2,0.8857142857142858,29,Inactive,0.9285714285714286,31,31,True
+43,FAKLLAKLAKKL,Inactive,4,False,esm2,3,2,0.6,0.4,0.9953285638355082,36,Active,0.995761446510465,44,36,False
+43,FAKLLAKLAKKL,Inactive,4,False,sequence,4,1,0.8,0.2,0.9230769230769231,39,Inactive,0.9230769230769232,44,36,False
+47,FAKLLAKLAKLKL,Inactive,5,False,esm2,3,2,0.6,0.4,0.9934157253519895,31,Active,0.9952876153444185,44,31,False
+47,FAKLLAKLAKLKL,Inactive,5,False,sequence,5,0,1.0,0.0,0.8461538461538461,20,Inactive,0.8461538461538461,44,31,False
+48,FAKLLFKALKKAL,Inactive,8,True,esm2,2,3,0.4,0.6,0.996682149591455,32,Active,0.9978658838263924,31,32,False
+48,FAKLLFKALKKAL,Inactive,8,True,sequence,1,4,0.2,0.8,0.8483516483516483,31,Active,0.8571428571428572,31,32,False
+149,VAKLLAKLAKKVL,Inactive,6,False,esm2,2,3,0.4,0.6,0.9966137935503868,148,Active,0.998036273549977,148,148,True
+149,VAKLLAKLAKKVL,Inactive,6,False,sequence,3,2,0.6,0.4,0.8615384615384615,148,Active,0.9230769230769232,148,148,True

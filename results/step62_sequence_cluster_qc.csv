@@ -1,0 +1,4 @@
+threshold,hard_case_peptides,unique_ids,pairwise_rows,pairwise_similarities_finite,similarity_range_within_0_1,matrix_symmetric,diagonal_self_similarity_one,assignment_rows,assignment_unique_ids,sum_cluster_sizes,cluster_ids_deterministic,class_counts_match_cluster_sizes,consensus_counts_valid,models_trained,threshold_optimized,labels_changed
+0.7,15,15,105,True,True,True,True,15,15,15,True,True,True,False,False,False
+0.8,15,15,105,True,True,True,True,15,15,15,True,True,True,False,False,False
+0.9,15,15,105,True,True,True,True,15,15,15,True,True,True,False,False,False

@@ -1,0 +1,12 @@
+flag,threshold_or_definition,hard_case_count,hard_case_fraction,universal_error_count,universal_error_fraction
+universal_8_of_8_error,total_wrong_count = 8,5,0.3333333333333333,5,1.0
+persistent_under_all_esm2_models,esm2_wrong_count = 4,6,0.4,5,1.0
+opposite_class_test_neighbor_sequence,test sequence margin > 0,7,0.4666666666666667,3,0.6
+opposite_class_test_neighbor_esm2,test ESM-2 margin > 0,5,0.3333333333333333,3,0.6
+opposite_class_development_neighbor_sequence,development sequence margin > 0,5,0.3333333333333333,3,0.6
+opposite_class_development_neighbor_esm2,development ESM-2 margin > 0,11,0.7333333333333333,4,0.8
+low_esm2_top10_purity,development ESM-2 top-10 purity < 0.50,7,0.4666666666666667,5,1.0
+high_descriptor_extremeness,mean absolute descriptor z >= 1.0,9,0.6,3,0.6
+residue_sensitivity_available,included in predefined Step-82 hard panel,5,0.3333333333333333,5,1.0
+high_residue_sensitivity,consensus maximum absolute sensitivity >= 0.10,5,0.3333333333333333,5,1.0
+motif_linked_top_residue,top sensitive residue covered by predefined recurrent motif,5,0.3333333333333333,5,1.0

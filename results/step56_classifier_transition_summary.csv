@@ -1,0 +1,5 @@
+classifier,test_peptides,stable_correct,rescued_by_esm2,regressed_with_esm2,persistent_error,traditional_correct,esm2_correct,correct_count_change,rescue_minus_regression,traditional_accuracy,esm2_accuracy,accuracy_delta,transition_qc_passed
+Logistic Regression,181,160,11,1,9,161,171,10,10,0.8895027624309392,0.9447513812154696,0.055248618784530384,True
+RBF-SVM,181,165,4,2,10,167,169,2,2,0.9226519337016574,0.9337016574585635,0.011049723756906077,True
+Random Forest,181,166,2,5,8,171,168,-3,-3,0.9447513812154696,0.9281767955801105,-0.016574585635359115,True
+XGBoost,181,169,5,2,5,171,174,3,3,0.9447513812154696,0.9613259668508287,0.016574585635359115,True

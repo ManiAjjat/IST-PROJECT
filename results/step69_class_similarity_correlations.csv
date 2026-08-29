@@ -1,0 +1,9 @@
+class_order,true_class,n,outcome_order,similarity_variable,outcome,spearman_rho,nominal_p_value_descriptive_only,inferential_claim
+0,Active,20,0,nearest_development_similarity,total_models_wrong,-0.33962080918521137,0.1429230761265039,False
+0,Active,20,1,nearest_development_similarity,traditional_models_wrong,-0.4082421326262696,0.07394498154423226,False
+0,Active,20,2,nearest_development_similarity,esm2_models_wrong,-0.19566574759926367,0.4083864960064965,False
+0,Active,20,3,nearest_development_similarity,mean_true_class_probability_across_8_models,0.3446201126064227,0.13675759372780094,False
+1,Inactive,161,0,nearest_development_similarity,total_models_wrong,0.42456613003101895,1.98840947088713e-08,False
+1,Inactive,161,1,nearest_development_similarity,traditional_models_wrong,0.407087188403358,8.36562820814093e-08,False
+1,Inactive,161,2,nearest_development_similarity,esm2_models_wrong,0.4356744576951464,7.640377841853283e-09,False
+1,Inactive,161,3,nearest_development_similarity,mean_true_class_probability_across_8_models,-0.2007290695371517,0.010675001802485201,False

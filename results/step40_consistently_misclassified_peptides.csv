@@ -1,0 +1,8 @@
+ID,sequence,class,original_class,label,binary_class,split,logistic_regression_probability,logistic_regression_prediction,logistic_regression_correct,rbf_svm_probability,rbf_svm_prediction,rbf_svm_correct,random_forest_probability,random_forest_prediction,random_forest_correct,xgboost_probability,xgboost_prediction,xgboost_correct,models_correct,models_wrong,agreement_category,unanimous_prediction,prediction_pattern_LR_SVM_RF_XGB
+40,FAKLLAKLAKKFAL,inactive - exp,inactive - exp,0,Inactive,test,0.8577552364702028,1,0,0.7560220211980317,1,0,0.98,1,0,0.98671037,1,0,0,4,0 models correct (all wrong),True,1111
+48,FAKLLFKALKKAL,inactive - exp,inactive - exp,0,Inactive,test,0.8932089940453428,1,0,0.8140167353320058,1,0,0.9766666666666668,1,0,0.99985933,1,0,0,4,0 models correct (all wrong),True,1111
+56,FALALKALKKALKKLKKALKKAL,inactive - exp,inactive - exp,0,Inactive,test,0.9814991953415776,1,0,0.8316469679220253,1,0,1.0,1,0,0.9876605,1,0,0,4,0 models correct (all wrong),True,1111
+67,FKLAFKLAKKAFL,inactive - exp,inactive - exp,0,Inactive,test,0.876687272022794,1,0,0.6728743613887461,1,0,0.8766666666666667,1,0,0.6320686,1,0,0,4,0 models correct (all wrong),True,1111
+68,FKRLAKIKVLRLAKIKR,mod. active,mod. active,1,Active,test,0.4956828731097921,0,0,0.0736720833168891,0,0,0.2366666666666666,0,0,0.038676832,0,0,0,4,0 models correct (all wrong),True,0000
+145,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,inactive - exp,inactive - exp,0,Inactive,test,0.9736519862665448,1,0,0.6548745642494856,1,0,0.8566666666666667,1,0,0.9918826,1,0,0,4,0 models correct (all wrong),True,1111
+149,VAKLLAKLAKKVL,inactive - exp,inactive - exp,0,Inactive,test,0.6946182973911832,1,0,0.6309533048176758,1,0,0.7466666666666667,1,0,0.743806,1,0,0,4,0 models correct (all wrong),True,1111

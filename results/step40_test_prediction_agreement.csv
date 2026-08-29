@@ -1,0 +1,182 @@
+ID,sequence,class,original_class,label,binary_class,split,logistic_regression_probability,logistic_regression_prediction,logistic_regression_correct,rbf_svm_probability,rbf_svm_prediction,rbf_svm_correct,random_forest_probability,random_forest_prediction,random_forest_correct,xgboost_probability,xgboost_prediction,xgboost_correct,models_correct,models_wrong,agreement_category,unanimous_prediction,prediction_pattern_LR_SVM_RF_XGB
+1,AIGKFLHSAKKFGKAFVGEIMNS,mod. active,mod. active,1,Active,test,0.8870694667042022,1,1,0.7550209177678925,1,1,0.9833333333333332,1,1,0.99338245,1,1,4,0,4 models correct (all correct),True,1111
+12,FAKKLAKKLKKLAKKLAKKWKL,mod. active,mod. active,1,Active,test,0.9837456922970708,1,1,0.7318863320807067,1,1,0.8566666666666667,1,1,0.9484762,1,1,4,0,4 models correct (all correct),True,1111
+15,FAKKLAKKLKKLAKKLIGAVLKV,mod. active,mod. active,1,Active,test,0.987114596497958,1,1,0.9025328378549244,1,1,0.9066666666666666,1,1,0.9940906,1,1,4,0,4 models correct (all correct),True,1111
+21,FAKKLAKLAKKLAKLAL,mod. active,mod. active,1,Active,test,0.90675732147678,1,1,0.7679778513621469,1,1,0.9105026455026458,1,1,0.9988416,1,1,4,0,4 models correct (all correct),True,1111
+30,FAKLLAKALKKAL,mod. active,mod. active,1,Active,test,0.7926142535917479,1,1,0.706242795910439,1,1,0.5866666666666667,1,1,0.82984793,1,1,4,0,4 models correct (all correct),True,1111
+33,FAKLLAKALKKL,inactive - exp,inactive - exp,0,Inactive,test,0.8323650427648159,1,0,0.7222421596560651,1,0,0.25,0,1,0.38108072,0,1,2,2,2 models correct,False,1100
+37,FAKLLAKLAKAKL,inactive - exp,inactive - exp,0,Inactive,test,0.6716867350127756,1,0,0.5713871709117144,1,0,0.3133333333333333,0,1,0.1386277,0,1,2,2,2 models correct,False,1100
+38,FAKLLAKLAKKAA,inactive - exp,inactive - exp,0,Inactive,test,0.6820144257644353,1,0,0.4687516070860489,0,1,0.19,0,1,0.001308017,0,1,3,1,3 models correct,False,1000
+40,FAKLLAKLAKKFAL,inactive - exp,inactive - exp,0,Inactive,test,0.8577552364702028,1,0,0.7560220211980317,1,0,0.98,1,0,0.98671037,1,0,0,4,0 models correct (all wrong),True,1111
+43,FAKLLAKLAKKL,inactive - exp,inactive - exp,0,Inactive,test,0.8308583619095085,1,0,0.7218982537886524,1,0,0.25,0,1,0.38108072,0,1,2,2,2 models correct,False,1100
+46,FAKLLAKLAKKVL,mod. active,mod. active,1,Active,test,0.8212455805907843,1,1,0.7897793786406978,1,1,0.9433333333333334,1,1,0.99469334,1,1,4,0,4 models correct (all correct),True,1111
+47,FAKLLAKLAKLKL,inactive - exp,inactive - exp,0,Inactive,test,0.7661081826429801,1,0,0.6998046234318234,1,0,0.3283333333333333,0,1,0.018351065,0,1,2,2,2 models correct,False,1100
+48,FAKLLFKALKKAL,inactive - exp,inactive - exp,0,Inactive,test,0.8932089940453428,1,0,0.8140167353320058,1,0,0.9766666666666668,1,0,0.99985933,1,0,0,4,0 models correct (all wrong),True,1111
+50,FAKLWAKLAFGKGIGKVGKKLL,mod. active,mod. active,1,Active,test,0.9864514667941772,1,1,0.8730004597172382,1,1,0.8766666666666667,1,1,0.9989267,1,1,4,0,4 models correct (all correct),True,1111
+55,FALALKALKKAL,inactive - exp,inactive - exp,0,Inactive,test,0.6745217380734418,1,0,0.6525031161218139,1,0,0.22,0,1,0.057625122,0,1,2,2,2 models correct,False,1100
+56,FALALKALKKALKKLKKALKKAL,inactive - exp,inactive - exp,0,Inactive,test,0.9814991953415776,1,0,0.8316469679220253,1,0,1.0,1,0,0.9876605,1,0,0,4,0 models correct (all wrong),True,1111
+61,FALALKKALKALKKAL,mod. active,mod. active,1,Active,test,0.8608903344493853,1,1,0.7738161769552891,1,1,0.94,1,1,0.9466404,1,1,4,0,4 models correct (all correct),True,1111
+67,FKLAFKLAKKAFL,inactive - exp,inactive - exp,0,Inactive,test,0.876687272022794,1,0,0.6728743613887461,1,0,0.8766666666666667,1,0,0.6320686,1,0,0,4,0 models correct (all wrong),True,1111
+68,FKRLAKIKVLRLAKIKR,mod. active,mod. active,1,Active,test,0.4956828731097921,0,0,0.0736720833168891,0,0,0.2366666666666666,0,0,0.038676832,0,0,0,4,0 models correct (all wrong),True,0000
+70,FLGALFHALSKLL,mod. active,mod. active,1,Active,test,0.9048209678264562,1,1,0.6947766309674673,1,1,0.97,1,1,0.98133904,1,1,4,0,4 models correct (all correct),True,1111
+72,FLGALFKALSKLL,mod. active,mod. active,1,Active,test,0.9446056480983056,1,1,0.8464337859619306,1,1,0.8966666666666666,1,1,0.9998242,1,1,4,0,4 models correct (all correct),True,1111
+78,FLKLLKKLAAKFLPTIICKISYKC,very active,very active,1,Active,test,0.9708324330315576,1,1,0.0449580256612416,0,0,0.6522222222222221,1,1,0.9983847,1,1,3,1,3 models correct,False,1011
+80,FLKWLFKWAKK,mod. active,mod. active,1,Active,test,0.8850885789028619,1,1,0.6535822560864497,1,1,0.6266666666666667,1,1,0.7241511,1,1,4,0,4 models correct (all correct),True,1111
+88,GIGKFLKKAKKFAKAFVKIINN,very active,very active,1,Active,test,0.9650184256514384,1,1,0.726658575764324,1,1,0.6355555555555557,1,1,0.9670399,1,1,4,0,4 models correct (all correct),True,1111
+90,GLFAVIKKVAAVIKKL,mod. active,mod. active,1,Active,test,0.8783556308384108,1,1,0.7921196875314415,1,1,0.8391666666666666,1,1,0.99551153,1,1,4,0,4 models correct (all correct),True,1111
+91,GLFAVIKKVAAVIRRL,mod. active,mod. active,1,Active,test,0.6680820654221024,1,1,0.156129284979011,0,0,0.2566666666666666,0,0,0.124753706,0,0,1,3,1 model correct,False,1000
+103,GLFDVIKAVASVIGGL,mod. active,mod. active,1,Active,test,0.8097861845321099,1,1,0.5188826269808017,1,1,0.12,0,0,0.8148121,1,1,3,1,3 models correct,False,1101
+114,KKVVFKVKFK,inactive - exp,inactive - exp,0,Inactive,test,0.4190544145650223,0,1,0.0295408764674854,0,1,0.1666666666666666,0,1,0.0007643164,0,1,4,0,4 models correct (all correct),True,0000
+128,KWKLFKKIGIGKFLHLAKKF,very active,very active,1,Active,test,0.9852097142650492,1,1,0.9092065338333716,1,1,1.0,1,1,0.9987446,1,1,4,0,4 models correct (all correct),True,1111
+139,KWKSFLKTFKSLKKTVLHTALKAISS,very active,very active,1,Active,test,0.9279693572659634,1,1,0.7758917961400148,1,1,1.0,1,1,0.9997701,1,1,4,0,4 models correct (all correct),True,1111
+142,KYKKALKKLAKLL,inactive - exp,inactive - exp,0,Inactive,test,0.5910638599393508,1,0,0.1652365083518089,0,1,0.33,0,1,0.7222045,1,0,2,2,2 models correct,False,1001
+145,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,inactive - exp,inactive - exp,0,Inactive,test,0.9736519862665448,1,0,0.6548745642494856,1,0,0.8566666666666667,1,0,0.9918826,1,0,0,4,0 models correct (all wrong),True,1111
+147,VAKKLAKLAKKLAKLAL,very active,very active,1,Active,test,0.8497896271854146,1,1,0.733348335279181,1,1,0.7762777777777778,1,1,0.9179838,1,1,4,0,4 models correct (all correct),True,1111
+149,VAKLLAKLAKKVL,inactive - exp,inactive - exp,0,Inactive,test,0.6946182973911832,1,0,0.6309533048176758,1,0,0.7466666666666667,1,0,0.743806,1,0,0,4,0 models correct (all wrong),True,1111
+158,AEGVATADPLMRLAKQLK,inactive - virtual,inactive - virtual,0,Inactive,test,0.02375521709117,0,1,0.0030335944895005,0,1,0.0066666666666666,0,1,1.0880576e-06,0,1,4,0,4 models correct (all correct),True,0000
+166,AGNLDIMTSAALATAERMAQSMLN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0047335785099505,0,1,0.0026778934575585,0,1,0.0,0,1,3.0385083e-05,0,1,4,0,4 models correct (all correct),True,0000
+167,AHAIGVLLDNL,inactive - virtual,inactive - virtual,0,Inactive,test,0.055271794569022,0,1,0.0208432332060874,0,1,0.0166666666666666,0,1,7.2037896e-05,0,1,4,0,4 models correct (all correct),True,0000
+169,AKQEKIIIQVALNDITHVVELL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0215862176976818,0,1,0.0075109191494591,0,1,0.0166666666666666,0,1,0.00020738301,0,1,4,0,4 models correct (all correct),True,0000
+170,AKVVRTALEDAASVAGLLIT,inactive - virtual,inactive - virtual,0,Inactive,test,0.0591804626889886,0,1,0.0130584002852703,0,1,0.0133333333333333,0,1,0.000102007914,0,1,4,0,4 models correct (all correct),True,0000
+173,ALYGLLKEEMGEILAK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0266654073437805,0,1,0.0049235796544499,0,1,0.04,0,1,0.00059115223,0,1,4,0,4 models correct (all correct),True,0000
+175,APDAEGRAIQAVYWANKWAKEQG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0095056946044011,0,1,0.0020802770456196,0,1,0.0,0,1,0.000141286,0,1,4,0,4 models correct (all correct),True,0000
+177,APEDVRKSSKEVL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0035882756871711,0,1,0.0020100179924446,0,1,0.0033333333333333,0,1,1.2797209e-05,0,1,4,0,4 models correct (all correct),True,0000
+179,AQTSRWAAMQIGMSFISAY,inactive - virtual,inactive - virtual,0,Inactive,test,0.0201235070422622,0,1,0.0036122944481278,0,1,0.01,0,1,7.365987e-05,0,1,4,0,4 models correct (all correct),True,0000
+185,DAAGLASRHKG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0608735442861567,0,1,0.0047310933012432,0,1,0.0133333333333333,0,1,1.1244928e-05,0,1,4,0,4 models correct (all correct),True,0000
+189,DAMLRTSMVATQLVGLAMMRYV,inactive - virtual,inactive - virtual,0,Inactive,test,0.012450021222979,0,1,0.0059694313201197,0,1,0.02,0,1,0.00032683875,0,1,4,0,4 models correct (all correct),True,0000
+195,DDETREELEELLIQA,inactive - virtual,inactive - virtual,0,Inactive,test,2.198031326792524e-05,0,1,0.0041615474984374,0,1,0.0,0,1,1.7836245e-06,0,1,4,0,4 models correct (all correct),True,0000
+197,DDYLKEQVLHMKQYVSDN,inactive - virtual,inactive - virtual,0,Inactive,test,0.000310181981629,0,1,0.0015192717082252,0,1,0.0,0,1,1.2133357e-05,0,1,4,0,4 models correct (all correct),True,0000
+198,DEAAFQKLMSNLD,inactive - virtual,inactive - virtual,0,Inactive,test,0.0008553879132933,0,1,0.0011697200886592,0,1,0.0,0,1,8.00322e-06,0,1,4,0,4 models correct (all correct),True,0000
+212,DFPALIKQASLDALFK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0864857898091184,0,1,0.0053449098955312,0,1,0.08,0,1,0.0008428599,0,1,4,0,4 models correct (all correct),True,0000
+216,DGGGFVISKHPVRLAKKLNR,inactive - virtual,inactive - virtual,0,Inactive,test,0.6336857388903133,1,0,0.0545635916921901,0,1,0.1433333333333333,0,1,0.0017932926,0,1,3,1,3 models correct,False,1000
+217,DHAVLEVLATPVREALLARFG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0182727213188953,0,1,0.0023504551343084,0,1,0.0,0,1,0.0001380786,0,1,4,0,4 models correct (all correct),True,0000
+229,DLESDALGWQYITG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0029337834241763,0,1,0.0013221230927753,0,1,0.0,0,1,9.760496e-05,0,1,4,0,4 models correct (all correct),True,0000
+235,DLRELIARVRALIRRKS,inactive - virtual,inactive - virtual,0,Inactive,test,0.0166797332834007,0,1,0.0157475241013156,0,1,0.0866666666666666,0,1,0.0006519318,0,1,4,0,4 models correct (all correct),True,0000
+239,DMNQVLDAYEN,inactive - virtual,inactive - virtual,0,Inactive,test,7.185361406881137e-06,0,1,0.004872207978872,0,1,0.0,0,1,7.168738e-06,0,1,4,0,4 models correct (all correct),True,0000
+252,DPLWKKEMFEKYLSN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0025514381615636,0,1,0.0021505715436681,0,1,0.0066666666666666,0,1,0.00012021382,0,1,4,0,4 models correct (all correct),True,0000
+261,DQNGEIYMWPVAQA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0002183535982761,0,1,0.0009073052844642,0,1,0.0,0,1,4.164175e-05,0,1,4,0,4 models correct (all correct),True,0000
+271,DSVASLLDVVKSTG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0444805322759376,0,1,0.0083228099495109,0,1,0.0033333333333333,0,1,3.3115044e-05,0,1,4,0,4 models correct (all correct),True,0000
+282,DWYRTYAELRETA,inactive - virtual,inactive - virtual,0,Inactive,test,2.586860116499702e-05,0,1,0.003275671430267,0,1,0.0,0,1,6.694487e-05,0,1,4,0,4 models correct (all correct),True,0000
+288,EDKEAVFDVVDTLTAVLQVATGVISTL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0225919778481374,0,1,0.0077507157858055,0,1,0.0033333333333333,0,1,0.0005843165,0,1,4,0,4 models correct (all correct),True,0000
+301,EGKDRELYGKLHETLKKVTEDLEA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0077220492918449,0,1,0.0027935849464289,0,1,0.0,0,1,0.00020280607,0,1,4,0,4 models correct (all correct),True,0000
+302,EGNKRLDSVNSIVS,inactive - virtual,inactive - virtual,0,Inactive,test,0.0032739795630757,0,1,0.0024130265923784,0,1,0.0033333333333333,0,1,2.9241269e-06,0,1,4,0,4 models correct (all correct),True,0000
+309,EKETFREKFMQH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0001533662858966,0,1,0.0076705241068627,0,1,0.0433333333333333,0,1,0.0011199574,0,1,4,0,4 models correct (all correct),True,0000
+315,EPGQRKIVMHK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0048418416849944,0,1,0.0044650693770727,0,1,0.0133333333333333,0,1,2.2285742e-05,0,1,4,0,4 models correct (all correct),True,0000
+316,EQEILRQVKKAYDRAARLG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0097229072521983,0,1,0.0025154701309991,0,1,0.02,0,1,1.476753e-05,0,1,4,0,4 models correct (all correct),True,0000
+326,EVNRNFGERINDLRILILLL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0097497853791221,0,1,0.0032520085135025,0,1,0.0033333333333333,0,1,3.5098048e-05,0,1,4,0,4 models correct (all correct),True,0000
+329,EYKYYKLKLAEMQR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0002683819559057,0,1,0.0048042739382173,0,1,0.0033333333333333,0,1,3.026126e-05,0,1,4,0,4 models correct (all correct),True,0000
+341,FKSVQNSLQRILYLWAIRH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0532066347572272,0,1,0.0027284821646521,0,1,0.0166666666666666,0,1,0.00022500062,0,1,4,0,4 models correct (all correct),True,0000
+345,FNQRRISSAKFLGELYNY,inactive - virtual,inactive - virtual,0,Inactive,test,0.0057766439258489,0,1,0.0018597680042069,0,1,0.0,0,1,3.937753e-05,0,1,4,0,4 models correct (all correct),True,0000
+349,FPQLTQNNSRE,inactive - virtual,inactive - virtual,0,Inactive,test,3.209039135417146e-05,0,1,0.0062741602733826,0,1,0.0,0,1,2.8059014e-05,0,1,4,0,4 models correct (all correct),True,0000
+352,FTELQRDFLRN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0006142874702481,0,1,0.0034169369365411,0,1,0.1066666666666666,0,1,0.0022038524,0,1,4,0,4 models correct (all correct),True,0000
+357,GAGTSVNMNTNEVLANIGLELM,inactive - virtual,inactive - virtual,0,Inactive,test,0.0039457475477603,0,1,0.0037823689589992,0,1,0.0,0,1,0.00024160845,0,1,4,0,4 models correct (all correct),True,0000
+359,GAQYIQAAGVALGLKMR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0898070183935871,0,1,0.014121216710461,0,1,0.04,0,1,1.1230834e-05,0,1,4,0,4 models correct (all correct),True,0000
+364,GEGWAKSILFN,inactive - virtual,inactive - virtual,0,Inactive,test,0.104468472262318,0,1,0.010186902683796,0,1,0.0033333333333333,0,1,0.00044103552,0,1,4,0,4 models correct (all correct),True,0000
+366,GFFGWFNRMFEKSTHHYTDSVGGI,inactive - virtual,inactive - virtual,0,Inactive,test,0.4199589623985076,0,1,0.0228883694685287,0,1,0.0266666666666666,0,1,0.018709876,0,1,4,0,4 models correct (all correct),True,0000
+369,GFSVQRRLWLAS,inactive - virtual,inactive - virtual,0,Inactive,test,0.075241117046988,0,1,0.0022446294853706,0,1,0.0166666666666666,0,1,0.00011435757,0,1,4,0,4 models correct (all correct),True,0000
+370,GFYPMVAAQRI,inactive - virtual,inactive - virtual,0,Inactive,test,0.0073698402406047,0,1,0.0020959089394371,0,1,0.02,0,1,5.3295145e-05,0,1,4,0,4 models correct (all correct),True,0000
+372,GGKEALAIENFADAL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0224951582772552,0,1,0.0066779966659254,0,1,0.0,0,1,8.3731175e-05,0,1,4,0,4 models correct (all correct),True,0000
+388,GLGLVLKIAVNAFLKLVA,inactive - virtual,inactive - virtual,0,Inactive,test,0.8048389851726113,1,0,0.4572254398529163,0,1,0.5266666666666666,1,0,0.31133792,0,1,2,2,2 models correct,False,1010
+391,GLTSLMAIDKL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0787763396568464,0,1,0.0104877728510107,0,1,0.0133333333333333,0,1,0.0009919896,0,1,4,0,4 models correct (all correct),True,0000
+392,GLWAIAVKAGKVILKLIVFIWIRV,inactive - virtual,inactive - virtual,0,Inactive,test,0.9621484233260054,1,0,0.3444338706714126,0,1,0.4533333333333333,0,1,0.7722348,1,0,2,2,2 models correct,False,1001
+394,GNFADLLAHSDGLIKNISDDLRALDKLI,inactive - virtual,inactive - virtual,0,Inactive,test,0.2728737440312015,0,1,0.0169166824568539,0,1,0.0166666666666666,0,1,0.0017762097,0,1,4,0,4 models correct (all correct),True,0000
+396,GPDMTAMVALIASV,inactive - virtual,inactive - virtual,0,Inactive,test,0.0126851486501767,0,1,0.0057234263678321,0,1,0.0066666666666666,0,1,4.4743752e-05,0,1,4,0,4 models correct (all correct),True,0000
+397,GPKDAVVKVFNQWG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0841676297049286,0,1,0.0050829496550584,0,1,0.1533333333333333,0,1,0.02004984,0,1,4,0,4 models correct (all correct),True,0000
+407,HALRTIVFELLTRH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0121213645116774,0,1,0.0041035424370189,0,1,0.01,0,1,4.2196963e-05,0,1,4,0,4 models correct (all correct),True,0000
+411,HGLVKAGHPLKRKLGH,inactive - virtual,inactive - virtual,0,Inactive,test,0.834896712380231,1,0,0.0395280073675102,0,1,0.1566666666666666,0,1,0.0035575188,0,1,3,1,3 models correct,False,1000
+416,HPAFIAHADRVLGGLDIAIST,inactive - virtual,inactive - virtual,0,Inactive,test,0.2056900535988769,0,1,0.0198055665834075,0,1,0.0133333333333333,0,1,8.5821564e-05,0,1,4,0,4 models correct (all correct),True,0000
+419,HSATRAAMLVRINT,inactive - virtual,inactive - virtual,0,Inactive,test,0.0017656123585928,0,1,0.0024712155163136,0,1,0.0166666666666666,0,1,2.1584012e-06,0,1,4,0,4 models correct (all correct),True,0000
+424,HWDKVADMVANFAHEIDTYG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0076029490737834,0,1,0.0030714352443553,0,1,0.0,0,1,0.0007462042,0,1,4,0,4 models correct (all correct),True,0000
+428,IDDSVNNLIPFMQKH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0051744300862089,0,1,0.0027256366579668,0,1,0.0,0,1,1.0774153e-05,0,1,4,0,4 models correct (all correct),True,0000
+433,IKPLNNFAAEVGKIRDS,inactive - virtual,inactive - virtual,0,Inactive,test,0.0247122812326589,0,1,0.0035110376425727,0,1,0.0033333333333333,0,1,6.500856e-06,0,1,4,0,4 models correct (all correct),True,0000
+434,IMELLGTVIQHEGIHQGQYYVALKQSG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0720020420280263,0,1,0.0116490941028235,0,1,0.0066666666666666,0,1,0.00024585164,0,1,4,0,4 models correct (all correct),True,0000
+439,KDAENHKAYLKSH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0018495902472607,0,1,0.0053400183714169,0,1,0.0066666666666666,0,1,2.5789644e-05,0,1,4,0,4 models correct (all correct),True,0000
+451,KHHAAYVNNLNNALKK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0044815270236678,0,1,0.0122123607974399,0,1,0.1129166666666666,0,1,0.00032024513,0,1,4,0,4 models correct (all correct),True,0000
+452,KIPDDLQADFNKFR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0053667375070043,0,1,0.003806255105618,0,1,0.0166666666666666,0,1,0.0008667619,0,1,4,0,4 models correct (all correct),True,0000
+453,KKAEAVATVVAAVDQARVR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0043356453815785,0,1,0.0062676235552079,0,1,0.0233333333333333,0,1,7.0237575e-06,0,1,4,0,4 models correct (all correct),True,0000
+459,KLDSRFDNNLGKFRFVLLLFV,inactive - virtual,inactive - virtual,0,Inactive,test,0.381785559765773,0,1,0.0167633405326711,0,1,0.02,0,1,0.00022106075,0,1,4,0,4 models correct (all correct),True,0000
+461,KLKELALIFISNLVAN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0712853991438709,0,1,0.0226695418435314,0,1,0.1433333333333333,0,1,0.014038491,0,1,4,0,4 models correct (all correct),True,0000
+464,KPEQYNIVGEHLLATLDEMFS,inactive - virtual,inactive - virtual,0,Inactive,test,0.0037522876069916,0,1,0.0006017269978127,0,1,0.0,0,1,2.4313684e-05,0,1,4,0,4 models correct (all correct),True,0000
+465,KPQELLSLIIERFE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0069646745252622,0,1,0.0025500410489386,0,1,0.0,0,1,5.0409195e-05,0,1,4,0,4 models correct (all correct),True,0000
+469,KQLTAIAALAE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0039199867648353,0,1,0.0040806760613525,0,1,0.0066666666666666,0,1,4.6929367e-06,0,1,4,0,4 models correct (all correct),True,0000
+478,KVRGLIEIISN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0437384748837267,0,1,0.0119379523494662,0,1,0.04,0,1,8.710945e-05,0,1,4,0,4 models correct (all correct),True,0000
+490,LEPIKAWIEKR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0066006891033427,0,1,0.0018201998130585,0,1,0.0066666666666666,0,1,4.537096e-06,0,1,4,0,4 models correct (all correct),True,0000
+491,LEQVEFKLNQLLENL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0009157067669061,0,1,0.0037909969447415,0,1,0.0133333333333333,0,1,0.00047366827,0,1,4,0,4 models correct (all correct),True,0000
+493,LKRAEALIHLANAALE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0102447240721202,0,1,0.0058416762746237,0,1,0.01,0,1,7.774282e-05,0,1,4,0,4 models correct (all correct),True,0000
+497,LLTEVETYVLSI,inactive - virtual,inactive - virtual,0,Inactive,test,0.0017954512643988,0,1,0.0038486882762152,0,1,0.0033333333333333,0,1,5.438283e-06,0,1,4,0,4 models correct (all correct),True,0000
+501,LPEDQELLFQSASLELFVLRLAYRA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0194912255498953,0,1,0.0022720191104027,0,1,0.0,0,1,0.0003792759,0,1,4,0,4 models correct (all correct),True,0000
+507,LQWYVSEQHEEEALFRGIVDKIKLIG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0471503755872253,0,1,0.0035278717323238,0,1,0.0,0,1,0.00046320746,0,1,4,0,4 models correct (all correct),True,0000
+512,LVGALMHVMQKRSR,inactive - virtual,inactive - virtual,0,Inactive,test,0.037342940267296,0,1,0.0067172256410654,0,1,0.05,0,1,0.00021046544,0,1,4,0,4 models correct (all correct),True,0000
+513,LVLPIAQALKVLG,inactive - virtual,inactive - virtual,0,Inactive,test,0.3857675513169205,0,1,0.0574004890472598,0,1,0.27,0,1,0.002831847,0,1,4,0,4 models correct (all correct),True,0000
+516,MLEEYRKHVAERAAE,inactive - virtual,inactive - virtual,0,Inactive,test,7.144289691754348e-05,0,1,0.0012815818520359,0,1,0.0,0,1,4.0399764e-06,0,1,4,0,4 models correct (all correct),True,0000
+517,MPEVFNYLGIYLTQA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0025091087577122,0,1,0.0015272473758503,0,1,0.0,0,1,5.8597238e-05,0,1,4,0,4 models correct (all correct),True,0000
+518,MPGTATHTVKMFS,inactive - virtual,inactive - virtual,0,Inactive,test,0.0216335800276645,0,1,0.0093802661384856,0,1,0.0333333333333333,0,1,0.0004108417,0,1,4,0,4 models correct (all correct),True,0000
+519,MPYTDAVVHEVQRYID,inactive - virtual,inactive - virtual,0,Inactive,test,0.0002534272454106,0,1,0.0013277245868222,0,1,0.0,0,1,8.2660445e-06,0,1,4,0,4 models correct (all correct),True,0000
+532,NEQDLGIQYKALKPEVDKLNIMAAKRQQEL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0094991871860754,0,1,0.0065779424179287,0,1,0.01,0,1,8.245815e-05,0,1,4,0,4 models correct (all correct),True,0000
+534,NFKDVIETAKKVMNF,inactive - virtual,inactive - virtual,0,Inactive,test,0.0118367880032001,0,1,0.0064071366608693,0,1,0.04,0,1,0.00029543162,0,1,4,0,4 models correct (all correct),True,0000
+535,NGETFLTELLD,inactive - virtual,inactive - virtual,0,Inactive,test,0.0014005470814134,0,1,0.0034703436521995,0,1,0.0033333333333333,0,1,3.7780177e-05,0,1,4,0,4 models correct (all correct),True,0000
+538,NIDSYLNAVNIINIFKIIG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0210934543439731,0,1,0.0111885005360601,0,1,0.06,0,1,0.00011066487,0,1,4,0,4 models correct (all correct),True,0000
+544,NKEEMMDIVKAIYDMMG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0011858070219113,0,1,0.0065811036672832,0,1,0.0,0,1,1.1444751e-05,0,1,4,0,4 models correct (all correct),True,0000
+546,NKQADSIKQMEERNKKRVENFKKTG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0093801364467483,0,1,0.009244733856416,0,1,0.03,0,1,0.00041586746,0,1,4,0,4 models correct (all correct),True,0000
+554,NLLYDIVKENG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0011757172264403,0,1,0.0032437335698692,0,1,0.0033333333333333,0,1,1.2841477e-05,0,1,4,0,4 models correct (all correct),True,0000
+562,NPARALYQTVRELIENSLDA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0008276318886148,0,1,0.0005600655010569,0,1,0.0,0,1,9.52119e-06,0,1,4,0,4 models correct (all correct),True,0000
+563,NPEILLARVKRFLERE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0033242110819575,0,1,0.0016375771922697,0,1,0.0,0,1,7.633357e-06,0,1,4,0,4 models correct (all correct),True,0000
+567,NPQVLADIGAEAT,inactive - virtual,inactive - virtual,0,Inactive,test,0.0007967727058259,0,1,0.0009460662534569,0,1,0.0,0,1,3.2268467e-06,0,1,4,0,4 models correct (all correct),True,0000
+569,NPVLQQHFRNLEALAL,inactive - virtual,inactive - virtual,0,Inactive,test,0.002872003554241,0,1,0.0012720053239815,0,1,0.0,0,1,6.468772e-06,0,1,4,0,4 models correct (all correct),True,0000
+570,NQDELEGYNLFKGSG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0021441066803366,0,1,0.0033236025110951,0,1,0.0033333333333333,0,1,5.547083e-05,0,1,4,0,4 models correct (all correct),True,0000
+573,NREANLQALIATG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0003327712314328,0,1,0.0009599153905172,0,1,0.0,0,1,8.684281e-07,0,1,4,0,4 models correct (all correct),True,0000
+576,NSNHQMLLVQQAEDKIKELLNT,inactive - virtual,inactive - virtual,0,Inactive,test,0.0011204217955378,0,1,0.0014900291034273,0,1,0.0,0,1,6.762656e-06,0,1,4,0,4 models correct (all correct),True,0000
+578,NSREREMFVQEVRRYY,inactive - virtual,inactive - virtual,0,Inactive,test,2.5363971401409324e-05,0,1,0.0043470357823417,0,1,0.0033333333333333,0,1,1.4364466e-05,0,1,4,0,4 models correct (all correct),True,0000
+580,NSVLRAVAEVYA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0009697813057494,0,1,0.0020663736828833,0,1,0.0,0,1,1.6544799e-06,0,1,4,0,4 models correct (all correct),True,0000
+581,NTDTLERVTEIFKALG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0026772235501306,0,1,0.0011748882746279,0,1,0.0,0,1,2.3129614e-05,0,1,4,0,4 models correct (all correct),True,0000
+600,PEKEAVTLGIKALKSSL,inactive - virtual,inactive - virtual,0,Inactive,test,0.1304569192446881,0,1,0.0103616192662923,0,1,0.0833333333333333,0,1,7.192053e-05,0,1,4,0,4 models correct (all correct),True,0000
+602,PEYEHLYTELTGTIVLLIES,inactive - virtual,inactive - virtual,0,Inactive,test,0.002874935494271,0,1,0.0022506366009983,0,1,0.0,0,1,4.5156376e-05,0,1,4,0,4 models correct (all correct),True,0000
+608,PIKFIRKA,inactive - virtual,inactive - virtual,0,Inactive,test,0.2401574891818985,0,1,0.0125370375639655,0,1,0.1033333333333333,0,1,0.00017833438,0,1,4,0,4 models correct (all correct),True,0000
+614,PNDMSRIFNIVKESL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0074969995568415,0,1,0.0020762417069764,0,1,0.0033333333333333,0,1,5.0046638e-06,0,1,4,0,4 models correct (all correct),True,0000
+615,PNGPTHAPWLLAHKIQ,inactive - virtual,inactive - virtual,0,Inactive,test,0.0485962935563494,0,1,0.0114954177162237,0,1,0.05,0,1,0.00031753027,0,1,4,0,4 models correct (all correct),True,0000
+626,PSVVANTVKGG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0599927519580136,0,1,0.0069712671573161,0,1,0.0533333333333333,0,1,0.00019850703,0,1,4,0,4 models correct (all correct),True,0000
+634,QASTGSLLNILR,inactive - virtual,inactive - virtual,0,Inactive,test,0.020354863202438,0,1,0.0026306343212464,0,1,0.0166666666666666,0,1,1.4408932e-05,0,1,4,0,4 models correct (all correct),True,0000
+641,QGLAEKIFWSLK,inactive - virtual,inactive - virtual,0,Inactive,test,0.1806830243661718,0,1,0.0196282966199591,0,1,0.1666666666666666,0,1,0.0010181953,0,1,4,0,4 models correct (all correct),True,0000
+647,QLLRGVGAAATAVTQALNELLQHVKA,inactive - virtual,inactive - virtual,0,Inactive,test,0.1190839006297627,0,1,0.0411138458998323,0,1,0.0333333333333333,0,1,0.0047298595,0,1,4,0,4 models correct (all correct),True,0000
+657,RAAAIEQLKIWGERVG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0150026057890756,0,1,0.0018828229506083,0,1,0.0133333333333333,0,1,1.2724108e-05,0,1,4,0,4 models correct (all correct),True,0000
+663,RFLIRVYHPLLLKVL,inactive - virtual,inactive - virtual,0,Inactive,test,0.2987277491781456,0,1,0.0357752711134194,0,1,0.19,0,1,0.00057525723,0,1,4,0,4 models correct (all correct),True,0000
+671,RIENGLRKRLQSIYRHLEE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0061127745179059,0,1,0.0050933002636839,0,1,0.0033333333333333,0,1,8.179817e-05,0,1,4,0,4 models correct (all correct),True,0000
+675,RKQSLEQDLQFYYG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0003624189167381,0,1,0.0052625137419474,0,1,0.0,0,1,5.2647305e-05,0,1,4,0,4 models correct (all correct),True,0000
+679,RLLGKWSAILKNVRFFFFWL,inactive - virtual,inactive - virtual,0,Inactive,test,0.8708564430153344,1,0,0.0717284944212561,0,1,0.0833333333333333,0,1,0.003922296,0,1,3,1,3 models correct,False,1000
+694,SAAWAEWQKAR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0008122267302414,0,1,0.0048338400513647,0,1,0.0033333333333333,0,1,2.4283447e-05,0,1,4,0,4 models correct (all correct),True,0000
+701,SDIFNKNMRAHALEK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0019848579310576,0,1,0.0016633007667061,0,1,0.0,0,1,1.4124813e-05,0,1,4,0,4 models correct (all correct),True,0000
+704,SDWYLKGRLTSLESQFINALGILET,inactive - virtual,inactive - virtual,0,Inactive,test,0.0405249850321308,0,1,0.0023074555275867,0,1,0.0033333333333333,0,1,0.00061748986,0,1,4,0,4 models correct (all correct),True,0000
+705,SEAAKAYMKGLEYQMSGNEQWSKT,inactive - virtual,inactive - virtual,0,Inactive,test,0.0063752889663489,0,1,0.0026996904502604,0,1,0.0,0,1,0.005285131,0,1,4,0,4 models correct (all correct),True,0000
+708,SEERIRSGVKRLSKSRQ,inactive - virtual,inactive - virtual,0,Inactive,test,0.0090721095356399,0,1,0.0117430872092731,0,1,0.04,0,1,2.1893067e-05,0,1,4,0,4 models correct (all correct),True,0000
+713,SESKLIEQAFR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0035076470765026,0,1,0.0027196076464272,0,1,0.0,0,1,2.562446e-05,0,1,4,0,4 models correct (all correct),True,0000
+720,SGRFWKLYIEAEIKA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0476384207406507,0,1,0.0027563813314132,0,1,0.0133333333333333,0,1,0.00027924182,0,1,4,0,4 models correct (all correct),True,0000
+723,SIDEKYEAEVKKSEIDHHK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0015174980735164,0,1,0.0039778437464523,0,1,0.0,0,1,6.0858816e-05,0,1,4,0,4 models correct (all correct),True,0000
+724,SIERLLEMESL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0007822474152272,0,1,0.0031967567974468,0,1,0.0,0,1,2.851904e-06,0,1,4,0,4 models correct (all correct),True,0000
+728,SKDLAQTSYFMATNSLHLT,inactive - virtual,inactive - virtual,0,Inactive,test,0.0051111068355368,0,1,0.0022108980736628,0,1,0.0033333333333333,0,1,6.007732e-05,0,1,4,0,4 models correct (all correct),True,0000
+730,SKEDVERVKLRINLARNWVKKY,inactive - virtual,inactive - virtual,0,Inactive,test,0.0094864705154877,0,1,0.0025937027976473,0,1,0.01,0,1,0.00012940395,0,1,4,0,4 models correct (all correct),True,0000
+735,SKYRLTVVVAKRAQQLLRH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0227260820535017,0,1,0.009655552976298,0,1,0.0933333333333333,0,1,0.0009363752,0,1,4,0,4 models correct (all correct),True,0000
+736,SLAEALGWLFVSEGS,inactive - virtual,inactive - virtual,0,Inactive,test,0.1082266429555046,0,1,0.0036398195317346,0,1,0.0066666666666666,0,1,0.00029779886,0,1,4,0,4 models correct (all correct),True,0000
+742,SMDHRIERLEYYIQLLVK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0024225494339113,0,1,0.0006723766748686,0,1,0.0,0,1,6.207382e-06,0,1,4,0,4 models correct (all correct),True,0000
+744,SNEVMRILISRSLLQE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0011211297398558,0,1,0.001403950901605,0,1,0.0,0,1,7.188249e-06,0,1,4,0,4 models correct (all correct),True,0000
+749,SPAVQMKIKELYRRR,inactive - virtual,inactive - virtual,0,Inactive,test,0.0016334417369349,0,1,0.0029385496203999,0,1,0.0233333333333333,0,1,2.3612238e-05,0,1,4,0,4 models correct (all correct),True,0000
+760,SPVVIKKRIEGLIER,inactive - virtual,inactive - virtual,0,Inactive,test,0.0548946497241738,0,1,0.0101833636404079,0,1,0.0333333333333333,0,1,0.00024962754,0,1,4,0,4 models correct (all correct),True,0000
+771,SSREWFSTLYRLFIG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0653369820312408,0,1,0.0023303135280879,0,1,0.0,0,1,0.000263603,0,1,4,0,4 models correct (all correct),True,0000
+776,SVADHSYRVAFITLLLAEELKKK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0835099730682481,0,1,0.0094968458401463,0,1,0.02,0,1,0.00024946433,0,1,4,0,4 models correct (all correct),True,0000
+800,TDQQKVSEIFQSSKEKLQGDAKVVSDAFK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0760349956054668,0,1,0.0129175533883422,0,1,0.0,0,1,0.00063327147,0,1,4,0,4 models correct (all correct),True,0000
+806,TEREQALAAYAEKLTRH,inactive - virtual,inactive - virtual,0,Inactive,test,0.0002123206619776,0,1,0.0008729739588028,0,1,0.0,0,1,3.198116e-06,0,1,4,0,4 models correct (all correct),True,0000
+807,TESMKTVRIREKIKKFL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0179586682772894,0,1,0.0051302166545158,0,1,0.0433333333333333,0,1,2.161922e-05,0,1,4,0,4 models correct (all correct),True,0000
+817,TIEEFHSKLQEATN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0003936408221244,0,1,0.0019389054358264,0,1,0.0,0,1,2.3830835e-05,0,1,4,0,4 models correct (all correct),True,0000
+824,TKGEREMIVVATSAAN,inactive - virtual,inactive - virtual,0,Inactive,test,0.0012255082790274,0,1,0.0010884335650115,0,1,0.0,0,1,4.2331353e-06,0,1,4,0,4 models correct (all correct),True,0000
+837,TPEKRVDRIFAMMD,inactive - virtual,inactive - virtual,0,Inactive,test,0.0008900036271093,0,1,0.0021849526308094,0,1,0.0,0,1,1.3475981e-05,0,1,4,0,4 models correct (all correct),True,0000
+848,TQDLRSHLVHKLVQAIF,inactive - virtual,inactive - virtual,0,Inactive,test,0.0270137950656061,0,1,0.0034921582221831,0,1,0.0033333333333333,0,1,5.878126e-06,0,1,4,0,4 models correct (all correct),True,0000
+852,TRELAYMIKKA,inactive - virtual,inactive - virtual,0,Inactive,test,0.0031459581789185,0,1,0.0012743573618066,0,1,0.0033333333333333,0,1,1.3533928e-06,0,1,4,0,4 models correct (all correct),True,0000
+861,TVLAALFLAGS,inactive - virtual,inactive - virtual,0,Inactive,test,0.1590823443856063,0,1,0.0247291051339905,0,1,0.0633333333333333,0,1,0.0016918732,0,1,4,0,4 models correct (all correct),True,0000
+862,TYYAKDIAFQFWKM,inactive - virtual,inactive - virtual,0,Inactive,test,0.009992908363735,0,1,0.009007197350392,0,1,0.0466666666666666,0,1,0.0073466715,0,1,4,0,4 models correct (all correct),True,0000
+866,VEAIEALLKGN,inactive - virtual,inactive - virtual,0,Inactive,test,0.006141136746846,0,1,0.0052074971738545,0,1,0.0066666666666666,0,1,0.00020947166,0,1,4,0,4 models correct (all correct),True,0000
+871,VIDPLHTHLTRLVAAYTG,inactive - virtual,inactive - virtual,0,Inactive,test,0.0270957979556418,0,1,0.0042019171279765,0,1,0.0,0,1,3.3171556e-05,0,1,4,0,4 models correct (all correct),True,0000
+872,VKYAVFEAALTKAITAMSEVQKVSQ,inactive - virtual,inactive - virtual,0,Inactive,test,0.029460481506143,0,1,0.010074388072529,0,1,0.0266666666666666,0,1,7.632764e-05,0,1,4,0,4 models correct (all correct),True,0000
+873,VLSFKTGIISL,inactive - virtual,inactive - virtual,0,Inactive,test,0.515988945994327,1,0,0.1324079537755054,0,1,0.1966666666666666,0,1,0.13059768,0,1,3,1,3 models correct,False,1000
+875,VMGQNLILNMND,inactive - virtual,inactive - virtual,0,Inactive,test,0.0002949275520045,0,1,0.0069534279593436,0,1,0.0,0,1,4.861547e-06,0,1,4,0,4 models correct (all correct),True,0000
+880,VPMQRVLKYHLLLQELVK,inactive - virtual,inactive - virtual,0,Inactive,test,0.0270726650623371,0,1,0.0064665888153792,0,1,0.03,0,1,5.1850307e-05,0,1,4,0,4 models correct (all correct),True,0000
+881,VQEVNRFIKAFEEMKALMKSL,inactive - virtual,inactive - virtual,0,Inactive,test,0.0264041839438194,0,1,0.004706578376766,0,1,0.0166666666666666,0,1,0.00022192235,0,1,4,0,4 models correct (all correct),True,0000
+894,YKEPLKAVVKKLLEKE,inactive - virtual,inactive - virtual,0,Inactive,test,0.0222378004730842,0,1,0.0067318262823091,0,1,0.0766666666666666,0,1,0.00023932425,0,1,4,0,4 models correct (all correct),True,0000

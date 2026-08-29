@@ -1,0 +1,23 @@
+{
+  "model": "RandomForest",
+  "best_n_estimators": 300,
+  "best_max_depth": null,
+  "best_min_samples_leaf": 1,
+  "n_estimators_tested": [
+    300,
+    600
+  ],
+  "max_depth_tested": [
+    null,
+    5,
+    10
+  ],
+  "min_samples_leaf_tested": [
+    1,
+    3,
+    5
+  ],
+  "selection_metric": "mean_cv_AUROC with AUPRC and MCC tie-breakers",
+  "class_weight": "balanced",
+  "random_state": 2026
+}

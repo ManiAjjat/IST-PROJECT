@@ -1,0 +1,33 @@
+{
+  "model": "XGBoost",
+  "n_estimators": 500,
+  "max_depth": 3,
+  "learning_rate": 0.1,
+  "subsample": 0.8,
+  "colsample_bytree": 0.6,
+  "n_estimators_tested": [
+    200,
+    500
+  ],
+  "max_depth_tested": [
+    2,
+    3,
+    5
+  ],
+  "learning_rate_tested": [
+    0.03,
+    0.1
+  ],
+  "subsample_tested": [
+    0.8,
+    1.0
+  ],
+  "colsample_bytree_tested": [
+    0.6,
+    0.9
+  ],
+  "selection_metric": "mean_cv_AUROC with AUPRC and MCC tie-breakers",
+  "tree_method": "hist",
+  "scale_pos_weight": 8.113924050632912,
+  "random_state": 2026
+}

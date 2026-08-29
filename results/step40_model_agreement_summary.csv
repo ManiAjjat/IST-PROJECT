@@ -1,0 +1,6 @@
+models_correct,agreement_category,peptide_count,percentage_of_test_set
+4,All 4 correct,158,87.29281767955801
+3,3 correct,7,3.867403314917127
+2,2 correct,8,4.419889502762431
+1,1 correct,1,0.5524861878453039
+0,All 4 wrong,7,3.867403314917127

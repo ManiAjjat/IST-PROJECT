@@ -1,0 +1,3 @@
+representation,development_rows_used_for_scaler_fit,development_rows_used_for_pca_fit,locked_test_rows_used_for_fit,original_dimensions,available_pcs,variance_target,pcs_required_for_at_least_90pct,cumulative_variance_at_selected_count,cumulative_variance_before_selected_count
+Traditional,720,720,0,32,32,0.9,18,0.922257802815985,0.8972163165065383
+ESM-2,720,720,0,1280,720,0.9,52,0.9010565841532551,0.8992200936290952

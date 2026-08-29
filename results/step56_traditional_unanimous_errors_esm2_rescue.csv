@@ -1,0 +1,8 @@
+ID,sequence,label,binary_class,lr_esm2_probability,lr_esm2_prediction,lr_esm2_correct,lr_transition,svm_esm2_probability,svm_esm2_prediction,svm_esm2_correct,svm_transition,rf_esm2_probability,rf_esm2_prediction,rf_esm2_correct,rf_transition,xgb_esm2_probability,xgb_esm2_prediction,xgb_esm2_correct,xgb_transition,esm2_models_correct,any_esm2_rescue,esm2_rescue_fraction
+40,FAKLLAKLAKKFAL,0,Inactive,0.90584534,1,False,persistent_error,0.849791193003466,1,False,persistent_error,0.7533333333333333,1,False,persistent_error,0.990853,1,False,persistent_error,0,False,0/4
+48,FAKLLFKALKKAL,0,Inactive,0.9257903,1,False,persistent_error,0.8246995481269193,1,False,persistent_error,0.91,1,False,persistent_error,0.9848038,1,False,persistent_error,0,False,0/4
+56,FALALKALKKALKKLKKALKKAL,0,Inactive,0.8302379,1,False,persistent_error,0.5,1,False,persistent_error,0.6366666666666667,1,False,persistent_error,0.85846364,1,False,persistent_error,0,False,0/4
+67,FKLAFKLAKKAFL,0,Inactive,0.67771506,1,False,persistent_error,0.3494581309944251,0,True,rescue,0.5333333333333333,1,False,persistent_error,0.27092153,0,True,rescue,2,True,2/4
+68,FKRLAKIKVLRLAKIKR,1,Active,0.0024941724,0,False,persistent_error,0.1014689255097228,0,False,persistent_error,0.36,0,False,persistent_error,0.14008915,0,False,persistent_error,0,False,0/4
+145,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,0,Inactive,0.87076575,1,False,persistent_error,0.8732128392515204,1,False,persistent_error,0.7733333333333333,1,False,persistent_error,0.9145729,1,False,persistent_error,0,False,0/4
+149,VAKLLAKLAKKVL,0,Inactive,0.3335615,0,True,rescue,0.590258361534283,1,False,persistent_error,0.5333333333333333,1,False,persistent_error,0.030577553,0,True,rescue,2,True,2/4

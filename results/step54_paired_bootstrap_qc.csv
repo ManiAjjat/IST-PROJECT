@@ -1,0 +1,2 @@
+bootstrap_replicates,expected_replicate_rows,actual_replicate_rows,all_classifier_replicates_present,all_sample_sizes_181,all_active_counts_20,all_inactive_counts_161,all_bootstrap_values_finite,paired_resampling,same_samples_across_classifiers,stratified_by_true_class,models_retrained,classification_threshold,random_seed
+5000,20000,20000,True,True,True,True,True,True,True,True,False,0.5,20250354

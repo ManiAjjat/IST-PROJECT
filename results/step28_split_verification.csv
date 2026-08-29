@@ -1,0 +1,16 @@
+check,value
+total_peptides,901
+development_count,720
+test_count,181
+development_active,79
+development_inactive,641
+test_active,20
+test_inactive,161
+overlap,0
+duplicate_ids,0
+duplicate_sequences,0
+ids_preserved,True
+sequences_preserved,True
+labels_preserved,True
+development_indices_match,True
+test_indices_match,True

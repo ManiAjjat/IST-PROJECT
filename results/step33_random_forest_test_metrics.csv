@@ -1,0 +1,2 @@
+model,best_n_estimators,best_max_depth,best_min_samples_leaf,test_n,test_active,test_inactive,test_AUROC,test_AUPRC,test_MCC,test_accuracy,test_precision,test_recall,test_specificity,test_F1,TN,FP,FN,TP
+RandomForest,300,None,1,181,20,161,0.9652173913043479,0.6732291747397245,0.7455702438142119,0.9447513812154696,0.7083333333333334,0.85,0.9565217391304348,0.7727272727272727,154,7,3,17

@@ -1,0 +1,2 @@
+models,subsets,performance_rows,delta_rows,subset_summary_rows,full_test_n,novel_lt_0_95_n,novel_lt_0_90_n,novel_lt_0_80_n,subset_nesting_valid,prediction_alignment_all_models,all_probabilities_finite_and_0_1,saved_predictions_match_threshold_0_5,all_metric_values_finite,confusion_counts_sum_to_n,full_test_deltas_zero,models_trained,models_retrained,thresholds_optimized,decision_threshold_changed,split_changed,labels_changed
+8,4,32,32,4,181,176,164,154,True,True,True,True,True,True,True,False,False,False,False,False,False

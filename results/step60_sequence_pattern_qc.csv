@@ -1,0 +1,2 @@
+test_peptides,hard_case_peptides,reference_peptides,group_overlap,group_union,unique_ids,valid_amino_acid_sequences,hard_output_rows,group_summary_rows,motif_summary_rows,all_composition_values_finite,all_aa_fractions_sum_to_one,motif_prevalences_within_0_1,hard_threshold_applied,reference_definition_applied,models_retrained,model_selection_performed,inferential_motif_tests_performed
+181,15,166,0,181,181,True,15,36,2026,True,True,True,True,True,False,False,False

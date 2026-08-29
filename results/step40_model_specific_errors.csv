@@ -1,0 +1,5 @@
+model,false_positives,false_negatives,total_errors,correct_predictions,accuracy,only_model_correct_count,only_model_wrong_count
+Random Forest,7,3,10,171,0.9447513812154696,0,1
+XGBoost,8,2,10,171,0.9447513812154696,0,0
+RBF-SVM,11,3,14,167,0.9226519337016574,0,1
+Logistic Regression,19,1,20,161,0.8895027624309392,1,5

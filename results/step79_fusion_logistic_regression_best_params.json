@@ -1,0 +1,12 @@
+{
+  "model": "Fusion Logistic Regression",
+  "pca_components": 24,
+  "fusion_dimensions": 56,
+  "C": 1.0,
+  "gamma": null,
+  "class_weight": "balanced",
+  "seed": 2026,
+  "selection_metric": "mean_cv_AUROC_then_AUPRC_then_MCC",
+  "development_rows": 720,
+  "locked_test_rows": 181
+}

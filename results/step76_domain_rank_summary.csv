@@ -1,0 +1,9 @@
+descriptive_summary_order,model,representation,classifier,discrimination_rank,threshold_rank,calibration_rank,decision_utility_rank,mean_domain_rank,summary_order_only_not_model_selection
+1,ESM-2 XGBoost,ESM-2,XGBoost,2.0,1.0,1.3333333333333333,1.0,1.3333333333333333,True
+2,ESM-2 Logistic Regression,ESM-2,Logistic Regression,4.0,2.0,4.0,3.0,3.25,True
+3,ESM-2 RBF-SVM,ESM-2,RBF-SVM,3.5,5.5,2.0,3.0,3.5,True
+4,ESM-2 Random Forest,ESM-2,Random Forest,1.0,5.5,4.0,4.5,3.75,True
+5,Traditional XGBoost,Traditional,XGBoost,5.0,3.0,5.333333333333333,4.0,4.333333333333333,True
+6,Traditional RBF-SVM,Traditional,RBF-SVM,5.5,7.0,4.666666666666667,7.0,6.041666666666667,True
+7,Traditional Random Forest,Traditional,Random Forest,8.0,4.0,7.0,5.5,6.125,True
+8,Traditional Logistic Regression,Traditional,Logistic Regression,7.0,8.0,7.666666666666667,8.0,7.666666666666667,True

@@ -1,0 +1,23 @@
+{
+  "model": "RBF-SVM",
+  "best_C": 1.0,
+  "best_gamma": "scale",
+  "C_values_tested": [
+    0.1,
+    1,
+    10,
+    100
+  ],
+  "gamma_values_tested": [
+    "scale",
+    0.001,
+    0.01,
+    0.1
+  ],
+  "selection_metric": "mean_cv_AUROC with AUPRC and MCC tie-breakers",
+  "class_weight": "balanced",
+  "probability": true,
+  "random_state": 2026,
+  "development_n": 720,
+  "test_n": 181
+}

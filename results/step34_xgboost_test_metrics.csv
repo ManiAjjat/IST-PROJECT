@@ -1,0 +1,2 @@
+model,best_n_estimators,best_max_depth,best_learning_rate,best_subsample,best_colsample_bytree,final_scale_pos_weight,test_n,test_active,test_inactive,test_AUROC,test_AUPRC,test_MCC,test_accuracy,test_precision,test_recall,test_specificity,test_F1,TN,FP,FN,TP
+XGBoost,500,3,0.1,0.8,0.6,8.113924050632912,181,20,161,0.9779503105590063,0.7668461218219346,0.7600689387825204,0.9447513812154696,0.6923076923076923,0.9,0.9503105590062112,0.782608695652174,153,8,2,18

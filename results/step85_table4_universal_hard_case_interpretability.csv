@@ -1,0 +1,6 @@
+ID,True class,Sequence,Mean true-class probability,Descriptor extremeness,Most extreme descriptor,Development sequence relation,Development ESM-2 relation,ESM-2 top-10 purity,Top sensitive residue,Maximum residue sensitivity,Motif context,Interpretation category
+48,Inactive,FAKLLFKALKKAL,0.0838693282286331,1.0513565087967565,hydrophobic_moment,Opposite-class closer,Opposite-class closer,0.4,L9,0.8319074830785393,LK;KAL,Cross-class neighborhood conflict
+40,Inactive,FAKLLAKLAKKFAL,0.1149611882493707,0.9415260643515528,boman_index,Same-class closer,Opposite-class closer,0.4,F12,0.7415902774889642,FA,Mixed/ambiguous neighborhood
+145,Inactive,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,0.1363799200290561,1.7805069507667663,length,Opposite-class closer,Opposite-class closer,0.3,K8,0.4873459243774414,KK,Cross-class neighborhood conflict
+56,Inactive,FALALKALKKALKKLKKALKKAL,0.1717281412587163,1.3311551122811214,net_charge_pH7_4,Same-class closer,Same-class closer,0.4,F1,0.2334341889619827,FA,Same-class neighborhood but model-sensitive
+68,Active,FKRLAKIKVLRLAKIKR,0.1810938378753838,0.9919344227607968,net_charge_pH7_4,Opposite-class closer,Opposite-class closer,0.2,K14,0.186725258063913,AK;LAK,Cross-class neighborhood conflict

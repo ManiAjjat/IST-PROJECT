@@ -1,0 +1,6 @@
+feature_1,feature_2,spearman_rho,absolute_rho
+net_charge_pH7_4,charge_density,0.9784650687802395,0.9784650687802395
+length,molecular_weight,0.9661480174321987,0.9661480174321987
+net_charge_pH7_4,isoelectric_point,0.9648150989288311,0.9648150989288311
+isoelectric_point,charge_density,0.9628402990719829,0.9628402990719829
+mean_eisenberg_hydrophobicity,boman_index,-0.899509883590158,0.899509883590158

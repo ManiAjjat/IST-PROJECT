@@ -1,0 +1,9 @@
+table_number,version,source_destination_identical,destination_exists,rows
+1,full_precision,True,True,16
+1,manuscript_ready,True,True,16
+2,full_precision,True,True,8
+2,manuscript_ready,True,True,8
+3,full_precision,True,True,4
+3,manuscript_ready,True,True,4
+4,full_precision,True,True,5
+4,manuscript_ready,True,True,5

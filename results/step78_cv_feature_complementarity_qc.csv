@@ -1,0 +1,6 @@
+fold,development_peptides,locked_test_peptides,train_n,validation_n,traditional_scaler_fit_samples,esm2_scaler_fit_samples,traditional_pca_fit_samples,esm2_pca_fit_samples,cca_fit_samples,traditional_pc_count_training_determined,esm2_pc_count_training_determined,validation_rows_used_in_fit,locked_test_rows_used_in_fit_or_transform,train_validation_overlap,test_overlap,all_pca_and_cca_outputs_finite,classifier_trained,feature_selected,representation_modified
+1,720,181,576,144,576,576,576,576,576,True,True,0,0,0,0,True,False,False,False
+2,720,181,576,144,576,576,576,576,576,True,True,0,0,0,0,True,False,False,False
+3,720,181,576,144,576,576,576,576,576,True,True,0,0,0,0,True,False,False,False
+4,720,181,576,144,576,576,576,576,576,True,True,0,0,0,0,True,False,False,False
+5,720,181,576,144,576,576,576,576,576,True,True,0,0,0,0,True,False,False,False

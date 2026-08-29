@@ -1,0 +1,2 @@
+peptides,models_per_peptide,traditional_models,esm2_models,traditional_wrong_min,traditional_wrong_max,esm2_wrong_min,esm2_wrong_max,total_wrong_min,total_wrong_max,all_wrong_count_sums_match,all_probabilities_finite,all_probabilities_within_0_1,overlap_matrix_sum,ranking_unique_1_to_181,ids_unique,traditional_all_wrong_expected_qc,consensus_hard_errors,manuscript_hard_cases,models_retrained,hyperparameters_selected,threshold_optimized,test_set_model_selection
+181,8,4,4,0,4,0,4,0,8,True,True,True,181,True,True,True,5,15,False,False,False,False
