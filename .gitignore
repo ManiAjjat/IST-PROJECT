@@ -1,0 +1,36 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Packaging artifacts
+dist/
+build/
+*.egg-info/
+
+# Editors and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local logs and machine-specific helpers
+*.log
+system-shutdown-command/
+conda activate acp_esm2.txt
+script.txt
+
+# Downloaded model caches (regenerable and too large for ordinary Git)
+models/huggingface_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key

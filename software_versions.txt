@@ -1,0 +1,17 @@
+Environment: acp_esm2
+Project: E:\postdoc-work\ist-project
+
+Python 3.11.15
+torch 2.13.0+cpu
+transformers 5.15.0
+accelerate 1.14.0
+pandas 3.0.5
+numpy 2.4.6
+scipy 1.17.1
+scikit-learn 1.9.0
+xgboost 3.2.0
+biopython 1.88
+modlamp 4.3.0
+tqdm 4.70.0
+matplotlib 3.11.1
+joblib 1.5.3
