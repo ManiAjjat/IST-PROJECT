@@ -25,8 +25,6 @@ The workflow evaluates whether learned ESM-2 representations improve ACP classif
 ist-project/
 |-- data/                  # Source peptide dataset
 |-- derived/               # Processed labels, splits, features, and embeddings
-|-- figures/               # Analysis figures produced throughout the workflow
-|-- manuscript/            # Manuscript tables, figures, methods, and supplements
 |-- results/               # Statistical summaries, metrics, predictions, and QC
 |-- scripts/               # Numbered reproducible analysis scripts
 |-- src/ist_project/       # Python package scaffold
